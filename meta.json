@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Mexico",
+      "id": "Q96"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q55346398",
+      "start": "2018-12-01",
+      "parent": "Q2182191"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://presidente.gob.mx/gabinete-3-2/",
+        "title": "Gabinete",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "es",
+            "wikidata": "Q1321"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/mexico-ministers"
 }
