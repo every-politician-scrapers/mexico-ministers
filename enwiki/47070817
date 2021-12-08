@@ -1,0 +1,171 @@
+{
+  "title": "Miguel Torruco Marqués",
+  "pageID": 47070817,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "Cornell University alumni",
+    "21st-century Mexican politicians",
+    "Writers from Mexico City",
+    "20th-century Mexican writers",
+    "20th-century Mexican male writers",
+    "21st-century Mexican writers",
+    "Mexican Secretaries of Tourism",
+    "National Regeneration Movement politicians",
+    "Cabinet of Andrés Manuel López Obrador"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Miguel Torruco Marqués (September 19, 1951 in Mexico City) is an entrepreneur, academic and Mexican public official.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mexico City"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Miguel Torruco Marqués"
+                ]
+              }
+            },
+            {
+              "text": "He was the Secretary of Tourism of the Federal District from 2012 to 2017."
+            },
+            {
+              "text": "In 2017, he became a Tourism Adviser of Andrés Manuel López Obrador, president of National Regeneration Movement (MORENA).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andrés Manuel López Obrador"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Regeneration Movement"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "the Mexican film actor",
+            "Miguel Torruco"
+          ],
+          "template": "for"
+        },
+        {
+          "year": "1951",
+          "month": "9",
+          "day": "19",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Wikimania15_Dschwen_(52).jpg"
+          },
+          "caption": {
+            "text": "Miguel Torruco Marqués"
+          },
+          "office": {
+            "text": "15th Secretary of Tourism",
+            "links": [
+              {
+                "text": "Secretary of Tourism",
+                "type": "internal",
+                "page": "Secretariat of Tourism (Mexico)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Andrés Manuel López Obrador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrés Manuel López Obrador"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 December 2018"
+          },
+          "predecessor": {
+            "text": "Enrique de la Madrid Cordero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enrique de la Madrid Cordero"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 19, 1951"
+          },
+          "birth_place": {
+            "text": "Mexico City",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mexico City"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Mexican",
+            "links": [
+              {
+                "text": "Mexican",
+                "type": "internal",
+                "page": "Mexicans"
+              }
+            ]
+          },
+          "known_for": {
+            "text": "entrepreneur, academic and Mexican public official"
+          },
+          "alma_mater": {
+            "text": "Cornell University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cornell University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Secretary of Tourism of the Federal District"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.excelsior.com.mx/comunidad/2013/07/21/909844",
+          "title": "Retrato hablado: Miguel Torruco Marqués, trotamundo extremo",
+          "date": "21 July 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.redpolitica.mx/yopolitico/perfil/miguel/torruco-marques",
+          "title": "Archived copy",
+          "access-date": "2015-06-24",
+          "archive-url": "https://web.archive.org/web/20180709185023/http://www.redpolitica.mx/yopolitico/perfil/miguel/torruco-marques",
+          "archive-date": "2018-07-09",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

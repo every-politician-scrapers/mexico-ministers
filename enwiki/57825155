@@ -1,0 +1,162 @@
+{
+  "title": "Jorge Alcocer Varela",
+  "pageID": 57825155,
+  "categories": [
+    "1946 births",
+    "Living people",
+    "National Autonomous University of Mexico alumni",
+    "Mexican Secretaries of Health",
+    "Cabinet of Andrés Manuel López Obrador",
+    "21st-century Mexican politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jorge Alcocer Varela (born 8 February 1946) is a Mexican immunologist, researcher, teacher and healthcare professional.",
+              "links": [
+                {
+                  "text": "immunologist",
+                  "type": "internal",
+                  "page": "Immunology"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jorge Alcocer Varela"
+                ]
+              }
+            },
+            {
+              "text": "Since 1 December 2018 he has served as the head of Secretariat of Health of Mexico, appointed by President Andrés Manuel López Obrador.",
+              "links": [
+                {
+                  "text": "Secretariat of Health",
+                  "type": "internal",
+                  "page": "Secretariat of Health (Mexico)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrés Manuel López Obrador"
+                }
+              ]
+            },
+            {
+              "text": "As a physician and emeritus researcher at the Salvador Zubirán National Institute of Health Sciences and Nutrition, Alcocer Varela has served Mexican public health in various capacities for more than 30 years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salvador Zubirán National Institute of Health Sciences and Nutrition"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mexican healthcare professional",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1946",
+          "month": "02",
+          "day": "08",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jorge Alcocer Varela"
+          },
+          "image": {
+            "text": "Jorge Carlos Alcocer Varela (cropped).jpg"
+          },
+          "office": {
+            "text": "Secretary of Health",
+            "links": [
+              {
+                "text": "Secretary of Health",
+                "type": "internal",
+                "page": "Secretariat of Health (Mexico)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Andrés Manuel López Obrador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrés Manuel López Obrador"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 December 2018"
+          },
+          "predecessor": {
+            "text": "José Narro Robles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Narro Robles"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 8, 1946"
+          },
+          "residence": {
+            "text": "Mexico City"
+          },
+          "nationality": {
+            "text": "Mexican"
+          },
+          "alma_mater": {
+            "text": "National Autonomous University of Mexico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Autonomous University of Mexico"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Researcher"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "July 3, 2018",
+          "title": "AMLO announced his cabinet in December; this is who they are",
+          "work": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/news/amlo-cabinet-secretaries/",
+          "accessdate": "July 4, 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Dr. Jorge Alcocer Varela",
+          "url": "http://www.gob.mx/salud/en/estructuras/dr-jorge-alcocer-varela-186073",
+          "access-date": "2020-09-28",
+          "website": "gob.mx",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

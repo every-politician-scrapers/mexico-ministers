@@ -1,0 +1,159 @@
+{
+  "title": "Tatiana Clouthier",
+  "pageID": 3691511,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Members of the Chamber of Deputies (Mexico)",
+    "Monterrey Institute of Technology and Higher Education alumni",
+    "Universidad Autónoma de Nuevo León alumni",
+    "Women members of the Chamber of Deputies (Mexico)",
+    "National Action Party (Mexico) politicians",
+    "Mexican people of French descent",
+    "National Regeneration Movement politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tatiana Clouthier (b.",
+              "formatting": {
+                "bold": [
+                  "Tatiana Clouthier"
+                ]
+              }
+            },
+            {
+              "text": "August 12, 1964, Culiacan, Sinaloa ) is a Mexican educator, politician and writer.",
+              "links": [
+                {
+                  "text": "Culiacan",
+                  "type": "internal",
+                  "page": "Culiacán"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sinaloa"
+                }
+              ]
+            },
+            {
+              "text": "Since December 8, 2020 she is the head of the Secretariat of Economy of Mexico appointed by President Andrés Manuel López Obrador.",
+              "links": [
+                {
+                  "text": "Secretariat of Economy of Mexico",
+                  "type": "internal",
+                  "page": "Secretariat of Economy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrés Manuel López Obrador"
+                }
+              ]
+            },
+            {
+              "text": "Clouthier came to national attention in Mexico as the 2018 presidential campaign manager for President Andrés Manuel López Obrador.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andrés Manuel López Obrador"
+                }
+              ]
+            },
+            {
+              "text": "Her work in social media for the campaign has been particularly recognized."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1964",
+          "month": "08",
+          "day": "12",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tatiana Clouthier"
+          },
+          "image": {
+            "text": "Tatiana Clouthier.png"
+          },
+          "birth_date": {
+            "text": "August 12, 1964"
+          },
+          "birth_place": {
+            "text": "Culiacan, Sinaloa"
+          },
+          "occupation": {
+            "text": "Educator, politician and writer"
+          },
+          "nationality": {
+            "text": "Mexican"
+          },
+          "education": {
+            "text": "Universidad Autónoma de Nuevo León"
+          },
+          "alma_mater": {
+            "text": "Monterrey Institute of Technology and Higher Studies"
+          },
+          "notable_works": {
+            "text": "Crónica de un fraude anunciado",
+            "formatting": {
+              "italic": [
+                "Crónica de un fraude anunciado"
+              ]
+            }
+          },
+          "spouse": {
+            "text": "José Martínez"
+          },
+          "children": {
+            "text": "María and Lucas"
+          },
+          "relatives": {
+            "text": "Leticia Carrillo and Manuel Clouthier"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.cunadegrillos.com/2018/04/12/los-generales-tatiana-clouthier/",
+          "title": "Los generales de Tatiana Clouthier",
+          "access-date": "June 6, 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.elfinanciero.com.mx/nacional/ella-es-tatiana-clouthier-la-coordinadora-de-campana-de-amlo",
+          "title": "Ella es Tatiana Clouthier, la coordinadora de campaña de AMLO",
+          "date": "January 15, 2018",
+          "work": "El Financiero",
+          "access-date": "June 6, 2018",
+          "location": "Mexico City",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Staff",
+          "first": "Forbes",
+          "date": "2020-12-07",
+          "title": "Tatiana Clouthier encabezará la Secretaría de Economía, anuncia AMLO",
+          "url": "https://www.forbes.com.mx/tatiana-clouthier-secretaria-de-economia/",
+          "access-date": "2020-12-07",
+          "website": "Forbes México",
+          "language": "es-MX",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
