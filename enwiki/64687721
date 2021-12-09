@@ -59,10 +59,6 @@
       ],
       "templates": [
         {
-          "description": "My Name Is Bishnu Pada Sardar",
-          "template": "short description"
-        },
-        {
           "year": "1943",
           "month": "04",
           "day": "20",
