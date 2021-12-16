@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Marcelo Luis Ebrard Casaubón (born October 10, 1959) is a Mexican politician who was affiliated with the Party of the Democratic Revolution (PRD) until 2015.",
+              "text": "Marcelo Luis Ebrard Casaubón (born 10 October 1959) is a Mexican politician who was affiliated with the Party of the Democratic Revolution (PRD) until 2015.",
               "links": [
                 {
                   "text": "Mexican",
@@ -130,8 +130,8 @@
           "template": "expand spanish"
         },
         {
-          "date": "January 2019",
-          "template": "use mdy dates"
+          "date": "December 2021",
+          "template": "use dmy dates"
         },
         {
           "year": "1959",
@@ -195,7 +195,7 @@
             ]
           },
           "term_start": {
-            "text": "December 1, 2018"
+            "text": "1 December 2018"
           },
           "predecessor": {
             "text": "Luis Videgaray Caso",
@@ -217,10 +217,10 @@
             ]
           },
           "term_start1": {
-            "text": "December 5, 2006"
+            "text": "5 December 2006"
           },
           "term_end1": {
-            "text": "December 4, 2012"
+            "text": "4 December 2012"
           },
           "predecessor1": {
             "text": "Alejandro Encinas Rodríguez",
@@ -241,22 +241,18 @@
             ]
           },
           "office2": {
-            "text": "Secretary of Social Development of the Federal District",
-            "links": [
-              {
-                "text": "Secretary of Social Development of the Federal District",
-                "type": "internal",
-                "page": "Mexico City"
-              }
-            ]
+            "text": "Secretary of Social Development of the Federal District"
           },
           "term_start2": {
-            "text": "February 8, 2005"
+            "text": "8 February 2005"
           },
           "term_end2": {
-            "text": "September 7, 2005"
+            "text": "7 September 2005"
           },
-          "mayor2": {
+          "1blankname2": {
+            "text": "Mayor"
+          },
+          "1namedata2": {
             "text": "Andrés Manuel López Obrador",
             "links": [
               {
@@ -272,22 +268,18 @@
             "text": "Martha Pérez Bajarano"
           },
           "office3": {
-            "text": "Secretary of Public Security of the Federal District",
-            "links": [
-              {
-                "text": "Secretary of Public Security of the Federal District",
-                "type": "internal",
-                "page": "Mexico City"
-              }
-            ]
+            "text": "Secretary of Public Security of the Federal District"
           },
           "term_start3": {
-            "text": "February 15, 2002"
+            "text": "15 February 2002"
           },
           "term_end3": {
-            "text": "November 7 2004"
+            "text": "7 November 2004"
           },
-          "mayor3": {
+          "1blankname3": {
+            "text": "Mayor"
+          },
+          "1namedata3": {
             "text": "Andrés Manuel López Obrador",
             "links": [
               {
@@ -325,10 +317,10 @@
             ]
           },
           "term_start4": {
-            "text": "June 30, 1999"
+            "text": "30 June 1999"
           },
           "term_end4": {
-            "text": "September 15, 2000"
+            "text": "15 September 2000"
           },
           "predecessor4": {
             "text": "Office established"
@@ -351,10 +343,10 @@
             ]
           },
           "term_start5": {
-            "text": "September 1, 1997"
+            "text": "1 September 1997"
           },
           "term_end5": {
-            "text": "August 31 2000"
+            "text": "31 August 2000"
           },
           "birth_name": {
             "text": "Marcelo Luis Ebrard"
