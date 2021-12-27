@@ -1,0 +1,26 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q628004,President of Mexico,Q96,Q96,,Q8310435,1824-10-10,,,,President of Mexico
+Q57077943,Secretary of Agriculture,Q96,Q96,,,,,,,
+Q110005388,Secretary for Communication and Transport,Q96,Q96,,,,,,,
+Q99523793,Secretary of Culture,Q96,,,,2015-12-18,,,,
+Q103990866,Secretary of Economy,Q96,Q96,,,,,,,
+Q105531113,Secretary of Education,Q96,Q96,,,1821-11-08,,,,
+Q28973041,Secretary of Energy,Q96,Q96,,,,,,,
+Q110005367,Secretary for the Environment and Natural Resources,Q96,Q96,,,,,,,
+Q52412845,Secretary of Finance and Public Credit,Q96,Q96,,,,,,,
+Q7444306,Secretary of Foreign Affairs,Q96,Q96,,,1821-11-08,,,,Secretary of Foreign Affairs (Mexico)
+Q65640440,Secretary of Government,Q96,Q96,,,1853-05-13,,,,
+Q99677656,Secretary of Health,Q96,Q96,,,1988-12-01,,Q99734927,,
+Q99734927,Secretary of Health and Assistance,Q96,Q96,,,1943,1988-11-30,,Q99677656,
+Q110005377,Secretary for Labour and Social Affairs,Q96,Q96,,,,,,,
+Q65768002,Secretary of National Defense,Q96,Q96,,,1940-12-01,,,,
+Q99744185,Secretary of Navy,Q96,Q96,,,,,,,
+Q110005356,Secretary for Public Service,Q96,Q96,,,,,,,
+Q110005292,Secretary of Security and Citizen Protection,Q96,Q96,,,,,,,
+Q28973023,Secretary of Tourism,Q96,Q96,,,,,,,
+Q110005328,Secretary for Urban Development,Q96,Q96,,,,,,,
+Q52413052,Secretary of Welfare,Q96,Q96,,,,,,,
+Q60678925,Attorney General of Mexico,Q96,Q96,,,,,,,Attorney General of Mexico
+Q6085556,President of the Chamber of Deputies of Mexico,Q96,,,,,,,,President of the Chamber of Deputies (Mexico)
+Q60824201,President of the Senate (Mexico),Q96,,,,,,,,President of the Senate (Mexico)
+Q110006236,Governor of the Bank of Mexico,Q96,,,,,,,,
