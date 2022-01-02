@@ -121,56 +121,6 @@
             "text": "Secretario de Hacienda y Crédito Público"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "The Mexico Question",
-          "url": "https://query.nytimes.com/gst/fullpage.html?res=9E0CE7DA103CF935A2575BC0A964958260",
-          "work": "The New York Times",
-          "date": "1992-08-16",
-          "accessdate": "2008-04-03",
-          "first": "Joel",
-          "last": "Kurtzman",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "I.B.M. to Pay Mexico City Millions for Failed System",
-          "url": "https://query.nytimes.com/gst/fullpage.html?res=9D06E3DB1239F937A15754C0A96E958260",
-          "work": "The New York Times",
-          "date": "1998-07-24",
-          "accessdate": "2008-04-03",
-          "first": "Sam",
-          "last": "Dillon",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Ramírez de la O señala la necesidad de mejorar competitividad de la IP",
-          "url": "http://www.jornada.unam.mx/2006/01/24/010n2pol.php",
-          "work": "La Jornada",
-          "date": "2006-03-24",
-          "accessdate": "2008-04-03",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20070821113718/http://www.jornada.unam.mx/2006/01/24/010n2pol.php",
-          "archivedate": "August 21, 2007",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.lopezobrador.org.mx/gabinete2012/index.html",
-          "title": "Propuesta de gabinete de Andrés Manuel López Obrador",
-          "accessdate": "4 February 2012",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20120131213325/http://www.lopezobrador.org.mx/gabinete2012/index.html",
-          "archivedate": "31 January 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "June 2021",
-          "template": "citation needed"
-        }
       ]
     }
   ]
