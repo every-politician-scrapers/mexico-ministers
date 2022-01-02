@@ -486,61 +486,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://lopezobrador.org.mx/semblanza/",
-          "title": "Semblanza",
-          "website": "Lopezobrador.org.mx",
-          "access-date": "10 December 2016",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20161129233651/http://lopezobrador.org.mx/semblanza",
-          "archive-date": "29 November 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.gob.mx/presidencia/estructuras/andres-manuel-lopez-obrador",
-          "title": "Andrés Manuel López Obrador",
-          "website": "gob.mx",
-          "language": "es",
-          "access-date": "3 March 2019",
-          "archive-url": "https://web.archive.org/web/20190306111350/https://www.gob.mx/presidencia/estructuras/andres-manuel-lopez-obrador",
-          "archive-date": "6 March 2019",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Lopez Obrador Progressive",
-          "url": "https://alborada.net/lopez-obrador-mexico-election-left/",
-          "website": "Apboroda",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Mexico's populist would-be president",
-          "url": "https://www.economist.com/news/americas/21718906-mexico-city-we-have-problem-mexicos-populist-would-be-president",
-          "website": "The Economist",
-          "access-date": "5 April 2018",
-          "quote": "A figure of national consequence for more than 20 years...",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Krauze",
-          "first": "Enrique",
-          "date": "2020-07-02",
-          "title": "Mexico's Ruinous Messiah",
-          "language": "en",
-          "url": "https://www.nybooks.com/articles/2020/07/02/lopez-obrador-mexicos-ruinous-messiah/",
-          "work": "The New York Review of Books",
-          "access-date": "2020-08-13",
-          "issn": "0028-7504",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

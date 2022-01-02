@@ -131,28 +131,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "SIL :: Sistema de Información Legislativa-PopUp Legislador",
-          "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?Referencia=9219558",
-          "access-date": "2021-02-27",
-          "website": "sil.gobernacion.gob.mx",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "C.V",
-          "first": "DEMOS, Desarrollo de Medios, S. A. de",
-          "date": "2015-07-24",
-          "title": "La Jornada: Rocío Nahle, coordinadora de los diputados de Morena",
-          "url": "https://www.jornada.com.mx/2015/07/24/politica/013n3pol",
-          "access-date": "2021-02-27",
-          "website": "www.jornada.com.mx",
-          "language": "es-MX",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

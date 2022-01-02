@@ -59,18 +59,6 @@
           "date": "March 2021",
           "template": "expand spanish"
         }
-      ],
-      "references": [
-        {
-          "last": "REDACCIÓN",
-          "title": "Secretario de Bienestar encabeza reunión en Guadalupe",
-          "url": "https://www.expresszacatecas.com/politica/gobierno/51838-visita-guadalupe-el-secretario-de-bienestar",
-          "access-date": "2021-03-04",
-          "website": "Noticias {{!}} Express Zacatecas",
-          "language": "es-ES",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

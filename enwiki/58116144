@@ -224,23 +224,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://siglo.inafed.gob.mx/enciclopedia/EMM15mexico/municipios/15099a.html",
-          "publisher": "INAFED",
-          "work": "Enciclopedia de los Municipios de México",
-          "title": "Texcoco",
-          "accessdate": "10 August 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

@@ -115,21 +115,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.eluniversal.com.mx/nacion/miembros-de-la-4t-en-nuevo-escandalo-llamado-pandora-papers",
-          "title": "Miembros del actual gobierno en nuevo escándalo llamado \"Pandora Papers\"",
-          "date": "3 October 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
