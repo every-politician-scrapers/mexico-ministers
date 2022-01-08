@@ -112,13 +112,80 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Rogelio Ramírez de la O"
+            "text": "Rogelio Ramirez de la O"
           },
-          "image": {
-            "text": "File:Rogelio Ramírez de la O. Secretario de Hacienda.jpg"
+          "party": {
+            "text": "MORENA",
+            "links": [
+              {
+                "text": "MORENA",
+                "type": "internal",
+                "page": "National Regeneration Movement"
+              }
+            ]
           },
           "occupation": {
-            "text": "Secretario de Hacienda y Crédito Público"
+            "text": "Economist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economist"
+              }
+            ]
+          },
+          "education": {
+            "text": "National Autonomous University of Mexico (BA) University of Cambridge (PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Autonomous University of Mexico"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "University of Cambridge"
+              },
+              {
+                "type": "internal",
+                "page": "PhD"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Arturo Herrera Gutiérrez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arturo Herrera Gutiérrez"
+              }
+            ]
+          },
+          "president": {
+            "text": "Andrés Manuel López Obrador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrés Manuel López Obrador"
+              }
+            ]
+          },
+          "office": {
+            "text": "Secretary of the Treasury and Public Credit of Mexico",
+            "links": [
+              {
+                "text": "Secretary of the Treasury and Public Credit of Mexico",
+                "type": "internal",
+                "page": "Secretary of Finance and Public Credit (Mexico)"
+              }
+            ]
+          },
+          "image_size": {
+            "text": "150",
+            "number": 150
           }
         }
       ]

@@ -290,12 +290,24 @@
           "term_start1": {
             "text": "8 January 2020"
           },
+          "term_end1": {
+            "text": "7 January 2022"
+          },
           "predecessor1": {
             "text": "Jeanine Áñez",
             "links": [
               {
                 "type": "internal",
                 "page": "Jeanine Áñez"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Alberto Fernández",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fernández"
               }
             ]
           },
