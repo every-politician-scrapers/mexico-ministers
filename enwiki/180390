@@ -1,0 +1,923 @@
+{
+  "title": "Bank of Mexico",
+  "pageID": 180390,
+  "categories": [
+    "Central banks",
+    "Economy of Mexico",
+    "Banks of Mexico",
+    "Banks established in 1925",
+    "Mexican companies established in 1925"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Bank of Mexico (Banco de México), abbreviated BdeM or Banxico, is Mexico's central bank, monetary authority and lender of last resort.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mexico"
+                },
+                {
+                  "text": "central bank",
+                  "type": "internal",
+                  "page": "central bank"
+                },
+                {
+                  "text": "lender of last resort",
+                  "type": "internal",
+                  "page": "lender of last resort"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bank of Mexico"
+                ],
+                "italic": [
+                  "BdeM",
+                  "Banxico,"
+                ]
+              }
+            },
+            {
+              "text": "The Bank of Mexico is autonomous in exercising its functions, and its main objective is to achieve stability in the purchasing power of the national currency."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Central Bank of Mexico",
+          "template": "short description"
+        },
+        {
+          "display": "inline,title",
+          "template": "coord",
+          "props": {
+            "region": "MX_type:landmark"
+          },
+          "lat": 19.43489,
+          "lon": -99.14043
+        }
+      ],
+      "infoboxes": [
+        {
+          "bank_name_in_local": {
+            "text": "Banco de México"
+          },
+          "image_1": {
+            "text": "Logobm.svg"
+          },
+          "image_title_1": {
+            "text": "Logo"
+          },
+          "image_width_1": {
+            "text": "170px"
+          },
+          "image_2": {
+            "text": "Banco de México & INBA.jpg"
+          },
+          "image_title_2": {
+            "text": "Headquarters"
+          },
+          "image_width_2": {
+            "text": "150px"
+          },
+          "ownership": {
+            "text": "100% state ownership",
+            "links": [
+              {
+                "text": "state ownership",
+                "type": "internal",
+                "page": "state ownership"
+              }
+            ]
+          },
+          "reserves": {
+            "text": "168 370 million USD"
+          },
+          "headquarters": {
+            "text": "Mexico City, Mexico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mexico City"
+              },
+              {
+                "type": "internal",
+                "page": "Mexico"
+              }
+            ]
+          },
+          "coordinates": {
+            "text": "19.43489°N, -99.14043°W"
+          },
+          "established": {
+            "text": "1 September 1925"
+          },
+          "president": {
+            "text": "Victoria Rodríguez Ceja"
+          },
+          "leader_title": {
+            "text": "Governor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor"
+              }
+            ]
+          },
+          "bank_of": {
+            "text": "Mexico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mexico"
+              }
+            ]
+          },
+          "currency": {
+            "text": "Mexican peso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mexican peso"
+              }
+            ]
+          },
+          "currency_iso": {
+            "text": "MXN"
+          },
+          "overnight interest rate target": {
+            "text": "7.75%"
+          },
+          "website": {
+            "text": "www.banxico.org.mx"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "depth": 0
+    },
+    {
+      "title": "Background",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Plans for a national bank of Mexico began as early as the Mexican Empire of Agustín de Iturbide with his idea of a Gran Banco del Imperio Mexicano (Grand Bank of the Mexican Empire).",
+              "links": [
+                {
+                  "text": "national bank",
+                  "type": "internal",
+                  "page": "national bank"
+                },
+                {
+                  "text": "Mexican Empire",
+                  "type": "internal",
+                  "page": "First Mexican Empire"
+                },
+                {
+                  "type": "internal",
+                  "page": "Agustín de Iturbide"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Gran Banco del Imperio Mexicano"
+                ]
+              }
+            },
+            {
+              "text": "This idea was never pursued, instead, credit was generally issued by religious orders or trading guilds."
+            },
+            {
+              "text": "In 1827 Mexico defaulted on a loan from British lenders which made it difficult to find foreign capital and it was forced to rely on local lenders as it had no national bank to lend to it."
+            },
+            {
+              "text": "Instead the government was forced to rely on domestic lenders known as agiotistas (speculators) who specialized in short-term, high-interest loans."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The first bank organized by the government was the Banco de Avío which was formed in 1830 during the regime of Anastasio Bustamante under the direction of the Minister of Interior and Foreign Affairs, Lucas Alamán.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anastasio Bustamante"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lucas Alamán"
+                }
+              ]
+            },
+            {
+              "text": "The primary purpose of the bank was to stimulate the manufacturing and textile industries."
+            },
+            {
+              "text": "But due to ongoing political and military crises the bank was closed in 1842 by President Antonio López de Santa Anna.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Antonio López de Santa Anna"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.anterior.banxico.org.mx/acerca-del-banco-de-mexico/historical-outline.html",
+          "title": "Historical outline, hierarchical history, Banco de México",
+          "website": "www.anterior.banxico.org.mx",
+          "access-date": "2019-05-26",
+          "archive-url": "https://web.archive.org/web/20190526040724/http://www.anterior.banxico.org.mx/acerca-del-banco-de-mexico/historical-outline.html",
+          "archive-date": "2019-05-26",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.anterior.banxico.org.mx/billetes-y-monedas/material-educativo/basico/%7B2FF1527B-0B07-AC7F-25B8-4950866E166A%7D.pdf",
+          "title": "The history of coins and banknotes in Mexico",
+          "date": "February 2018",
+          "publisher": "Banco de México",
+          "access-date": "2019-05-27",
+          "archive-url": "https://web.archive.org/web/20190713175708/http://www.anterior.banxico.org.mx/billetes-y-monedas/material-educativo/basico/%7B2FF1527B-0B07-AC7F-25B8-4950866E166A%7D.pdf",
+          "archive-date": "2019-07-13",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://books.google.com/books?id=YSred4NyOKoC&q=mexico+law+on+credit+institutions+1897&pg=PA42",
+          "title": "Mexico: An Encyclopedia of Contemporary Culture and History",
+          "last1": "Coerver",
+          "first1": "Don M.",
+          "last2": "Pasztor",
+          "first2": "Suzanne B.",
+          "last3": "Buffington",
+          "first3": "Robert",
+          "date": "2004",
+          "publisher": "ABC-CLIO",
+          "isbn": "9781576071328",
+          "language": "en",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Private banks",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Private banking officially began in Mexico under the rule of Emperor Maximiliano in 1864 when the Banco de Londres, México y Sud America (Bank of London, Mexico and South America) opened in Mexico City.",
+              "formatting": {
+                "italic": [
+                  "Banco de Londres, México y Sud America"
+                ]
+              }
+            },
+            {
+              "text": "In the 1870s the Banco de Santa Eulalia opened in Chihuahua and the Monte de Piedad, which had functioned as a pawnshop since 1775, expanded its services into banking.",
+              "formatting": {
+                "italic": [
+                  "Banco de Santa Eulalia",
+                  "Monte de Piedad"
+                ]
+              }
+            },
+            {
+              "text": "Both banks issued their own bank notes and many more banks followed suit in the next decade, including the Banco Nacional Mexicano (Mexican National Bank) in 1882, opened by the administration of President Manuel González.",
+              "links": [
+                {
+                  "text": "Manuel González",
+                  "type": "internal",
+                  "page": "Manuel González Flores"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Banco Nacional Mexicano"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1884 the Banco Nacional Mexicano soon merged with Banco Mercantil Mexicano (Mexican Mercantile Bank) to form the Banco Nacional de México (National Bank of Mexico) which issued notes and was the primary lender to the government.",
+              "formatting": {
+                "italic": [
+                  "Banco Nacional Mexicano",
+                  "Banco Mercantil Mexicano",
+                  "Banco Nacional de México"
+                ]
+              }
+            },
+            {
+              "text": "The same year government issued a commercial code that gave it control of the banking sector, including the responsibility of chartering banks and establishing minimum levels of capital."
+            },
+            {
+              "text": "The new code also stipulated that all paper money had to be backed by gold or silver on deposit in the national treasury."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The next 15 years were turbulent for the banking sector of Mexico."
+            },
+            {
+              "text": "Due to poor management, the Monte de Piedad temporarily closed, reopening without its banking services.",
+              "formatting": {
+                "italic": [
+                  "Monte de Piedad"
+                ]
+              }
+            },
+            {
+              "text": "The government mismanaged the emission of a new non-silver coin and was forced to hastily recall it."
+            },
+            {
+              "text": "Both of these events caused the public to lose confidence in the banks and paper money."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.anterior.banxico.org.mx/sistema-financiero/material-educativo/basico/%7B860B8FCB-0988-D96E-0260-1371980FCC40%7D.pdf",
+          "title": "A Brief Summary of Banking in Mexico",
+          "last": "Turrent",
+          "first": "Eduardo",
+          "publisher": "Banco de México}}{{Dead link|date=June 2020 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Porfiriato",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1897, during the presidency of Porfirio Díaz, Finance Minister José Yves Limantour helped to guide the passing of the Ley de Instituciones de Crédito (Law of Credit Institutions).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Porfirio Díaz"
+                },
+                {
+                  "type": "internal",
+                  "page": "José Yves Limantour"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ley de Instituciones de Crédito"
+                ]
+              }
+            },
+            {
+              "text": "The new law grouped banks into three categories: issuing banks, mortgage loan banks, and auxiliary development banks.",
+              "links": [
+                {
+                  "text": "mortgage loan",
+                  "type": "internal",
+                  "page": "mortgage loan"
+                }
+              ]
+            },
+            {
+              "text": "Issuing banks were allowed to circulate banknotes within the state they were issued, but only the Banco Nacional de México and the Banco de Londres y Mexico notes were allowed to circulate nationally.",
+              "formatting": {
+                "italic": [
+                  "Banco Nacional de México",
+                  "Banco de Londres y Mexico"
+                ]
+              }
+            },
+            {
+              "text": "They were also authorized to make short-term loans."
+            },
+            {
+              "text": "Mortgage banks were authorized to make loans collateralized by real estate for periods up to 40 years.",
+              "links": [
+                {
+                  "text": "real estate",
+                  "type": "internal",
+                  "page": "real estate"
+                }
+              ]
+            },
+            {
+              "text": "The auxiliary development banks were authorized to make loans for periods up to two years for the purpose of financing industrial endeavors such as mining, manufacturing, and agriculture."
+            },
+            {
+              "text": "Nationwide, there were 24 banks with issuing authority, two mortgage banks, and five auxiliary development banks."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1908 Limantour issued new reforms to protect the Mexican economy from weaknesses exposed by the US financial crisis of 1907.",
+              "links": [
+                {
+                  "text": "US financial crisis of 1907",
+                  "type": "internal",
+                  "page": "Panic of 1907"
+                }
+              ]
+            },
+            {
+              "text": "These reforms prevented emissions banks from opening new branches and required them to convert themselves into auxiliary or mortgage banks."
+            },
+            {
+              "text": "These changes had limited success, and though Limantour predicted a budget surplus for 1911, the collapse of the Porfirian regime and the intensification of the Revolution ground normal banking activity to a halt.",
+              "links": [
+                {
+                  "text": "Porfirian",
+                  "type": "internal",
+                  "page": "Porfiriato"
+                },
+                {
+                  "text": "Revolution",
+                  "type": "internal",
+                  "page": "Mexican Revolution"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Revolution",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1911 Francisco I. Madero took power from Díaz.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Francisco I. Madero"
+                }
+              ]
+            },
+            {
+              "text": "Madero worked to increase the number of banks in the country but he was not trusted by the United States which worked with one of Madero's generals, Victoriano Huerta, to overthrown him in February 1913.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Victoriano Huerta"
+                }
+              ]
+            },
+            {
+              "text": "When Huerta took power in 1913, he confiscated all of the metal backed banknotes from private issuing banks then issued unbacked banknotes into circulation, crippling the national banking system."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When Huerta was forced from office, the number of banknotes issued multiplied and the population began to lose faith in paper money."
+            },
+            {
+              "text": "As warlords ravaged the country vying for control, they forced banks to make exorbitant loans or they looted them."
+            },
+            {
+              "text": "In 1916 Venustiano Carranza declared that all banks must fully back their banknotes with metal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Venustiano Carranza"
+                }
+              ]
+            },
+            {
+              "text": "The 1897 law said that private banks only had to back 33% of the value of their issued notes, consequently all of the private banks were dissolved and their assets seized."
+            },
+            {
+              "text": "That same year Carranza issued his own \"unforgeable\" notes in May though these lost all value by July of the same year."
+            },
+            {
+              "text": "The banks seized by Carranza weren't returned to their owners until the administration of Álvaro Obregón in 1921.",
+              "links": [
+                {
+                  "text": "Álvaro Obregón",
+                  "type": "internal",
+                  "page": "Álvaro Obregón"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Foundation",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The current constitution of Mexico was signed in 1917.",
+              "links": [
+                {
+                  "text": "constitution of Mexico",
+                  "type": "internal",
+                  "page": "constitution of Mexico"
+                }
+              ]
+            },
+            {
+              "text": "Article 28 of that constitution stipulated that all paper money would be issued by a single bank controlled by the government."
+            },
+            {
+              "text": "But it wasn't until the end of 1924 that the Ley General de Instituciones de Crédito (General Law of Credit Institutions) was passed which was the legal antecedent for the Banco de México.",
+              "formatting": {
+                "italic": [
+                  "Ley General de Instituciones de Crédito"
+                ]
+              }
+            },
+            {
+              "text": "The law prevented banks from owning stock in other banks and eliminated the stock exemption for banks."
+            },
+            {
+              "text": "Most importantly, the law called for the creation of a central bank."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The Banco de México was created on August 25, 1925 under the direction of Minister of Finance Alberto J. Pani with an official ceremony given on September 1, 1925.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Finance minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alberto J. Pani"
+                }
+              ]
+            },
+            {
+              "text": "It was given exclusive authority to mint coins and print banknotes, a sharp departure from policies of the past.",
+              "links": [
+                {
+                  "text": "coins",
+                  "type": "internal",
+                  "page": "coin"
+                },
+                {
+                  "text": "banknotes",
+                  "type": "internal",
+                  "page": "banknote"
+                }
+              ]
+            },
+            {
+              "text": "The bank was also given responsibility over exchange rates, interest rates, and monetary regulation.",
+              "links": [
+                {
+                  "text": "exchange rates",
+                  "type": "internal",
+                  "page": "exchange rate"
+                },
+                {
+                  "text": "interest rates",
+                  "type": "internal",
+                  "page": "interest rate"
+                }
+              ]
+            },
+            {
+              "text": "Initially, retail banks even had the option not to partner with Banco de México."
+            },
+            {
+              "text": "The main goals of the Bank at that time were to unify the fractured banking system left behind by the Revolution, create a flexible financial system that could modernize the country, reestablish credit, and renew trust in paper money."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The bank's first years were difficult."
+            },
+            {
+              "text": "Initially only two private banks affiliated themselves with Banco de México, and by 1927, in the midst of the Christero War, the bank exceeded the legal limit of how much it could loan to the government.",
+              "links": [
+                {
+                  "text": "Christero War",
+                  "type": "internal",
+                  "page": "Cristero War"
+                }
+              ]
+            },
+            {
+              "text": "The unease of the private banking institution was assuaged somewhat when the initial offices of Banco de México were temporarily located in the headquarters of the Banco de Londres y Mexico.",
+              "formatting": {
+                "italic": [
+                  "Banco de Londres y Mexico"
+                ]
+              }
+            },
+            {
+              "text": "The banking interests cemented their relationship with the government by issuing loans to government officials, ensuring that the politicians had a vested interest in the stability of the system."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1932, laws were passed that required all private banks to invest their capital in Mexico and associate themselves with Banco de México."
+            },
+            {
+              "text": "The laws also required that Banco de México cease operating as a commercial bank."
+            },
+            {
+              "text": "After passage of this legislation, only three foreign banks remained in the country."
+            },
+            {
+              "text": "These changes and a looser restriction on the issuance of banknotes led to a growing trust in the central bank."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://historiademexico2cobao.blogspot.com/2011/11/banco-de-credito-agricola.html",
+          "title": "Agricultural credit bank",
+          "date": "November 6, 2011",
+          "website": "Historia de Mexico 2",
+          "access-date": "May 26, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ley creando el \"Banco de México",
+          "journal": "Diario Oficial",
+          "date": "August 31, 1925",
+          "volume": "XXXI",
+          "issue": "58",
+          "pages": "1263–1271",
+          "url": "http://www.dof.gob.mx/index.php?year=1925&month=8&day=31",
+          "access-date": "9 December 2020",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "date": "November 2019",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Directors General (1925-1994) and Governors (1994- )",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "On December 15, 2009, Agustín Carstens was confirmed by the Senate as the new Governor of the Bank of Mexico with 81 votes in favor and 19 votes against."
+            },
+            {
+              "text": "He assumed office on 1 January 2010."
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Alberto Mascareñas Navarro (1925-1932)"
+          },
+          {
+            "text": "Agustín Rodríguez Cotera (1932-1935)"
+          },
+          {
+            "text": "Gonzalo Robles Fernández (1935)"
+          },
+          {
+            "text": "Luis Montes de Oca (1935-1940)"
+          },
+          {
+            "text": "Eduardo Villaseñor Ángeles (1940-1946)"
+          },
+          {
+            "text": "Carlos Novoa Rouvignac (1946-1952)"
+          },
+          {
+            "text": "Rodrigo Gómez Gómez (1952-1970)"
+          },
+          {
+            "text": "Ernesto Fernández Hurtado (1970-1976)"
+          },
+          {
+            "text": "Gustavo Romero Kolbeck (1976-1982)"
+          },
+          {
+            "text": "Carlos Tello Macías (1982)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carlos Tello Macías"
+              }
+            ]
+          },
+          {
+            "text": "Miguel Mancera Aguayo (1982-1997)",
+            "links": [
+              {
+                "text": "Miguel Mancera Aguayo",
+                "type": "internal",
+                "page": "Miguel Mancera"
+              }
+            ]
+          },
+          {
+            "text": "Guillermo Ortiz Martínez (1998 - 2009)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guillermo Ortiz Martínez"
+              }
+            ]
+          },
+          {
+            "text": "Agustín Carstens Carstens (2009 - 2017)",
+            "links": [
+              {
+                "text": "Agustín Carstens Carstens",
+                "type": "internal",
+                "page": "Agustín Carstens"
+              }
+            ]
+          },
+          {
+            "text": "Alejandro Díaz de León (2017–2021)"
+          },
+          {
+            "text": "Victoria Rodríguez Ceja (2022–present)"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.forbes.com/feeds/reuters/2009/12/15/2009-12-15T234527Z_01_N15241977_RTRIDST_0_MEXICO-CARSTENS-UPDATE-3.html",
+          "title": "Mexico's Senate confirms Carstens as cenbank head",
+          "date": "15 December 2009",
+          "magazine": "Forbes",
+          "agency": "Reuters",
+          "access-date": "16 December 2009",
+          "archive-date": "26 July 2020",
+          "archive-url": "https://web.archive.org/web/20200726135042/https://www.forbes.com/feeds/reuters/2009/12/15/2009-12-15T234527Z_01_N15241977_RTRIDST_0_MEXICO-CARSTENS-UPDATE-3.html",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Banks"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Mexican peso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mexican peso"
+              }
+            ]
+          },
+          {
+            "text": "Economy of Mexico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economy of Mexico"
+              }
+            ]
+          },
+          {
+            "text": "Economic history of Mexico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economic history of Mexico"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "mexican banks"
+        },
+        {
+          "template": "mexico topics"
+        },
+        {
+          "template": "central banks"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official site of Banco de México",
+            "links": [
+              {
+                "text": "Official site of Banco de México",
+                "type": "external",
+                "site": "http://www.banxico.org.mx/"
+              }
+            ]
+          },
+          {
+            "text": "Banking in Mexico (in English)",
+            "links": [
+              {
+                "text": "Banking in Mexico (in English)",
+                "type": "external",
+                "site": "http://mexbanks.com"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
