@@ -76,6 +76,10 @@
       ],
       "templates": [
         {
+          "description": "Mexican lawyer and politician",
+          "template": "short description"
+        },
+        {
           "list": [
             "Gertz",
             "Manero"
