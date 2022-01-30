@@ -368,36 +368,6 @@
           },
           {
             "Department": {
-              "text": "Escudo FGR México.png Attorney General(Fiscalía General de la República)",
-              "links": [
-                {
-                  "text": "Attorney General",
-                  "type": "internal",
-                  "page": "Attorney General of Mexico"
-                }
-              ]
-            },
-            "Title": {
-              "text": "Attorney General(Fiscal General de la República)"
-            },
-            "Incumbent": {
-              "text": "Alejandro Gertz Manero (b. 1939)",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Alejandro Gertz Manero"
-                }
-              ]
-            },
-            "Image": {
-              "text": "Alejandro_Gertz_Manero.jpg"
-            },
-            "In Office since": {
-              "text": "December 1, 2018"
-            }
-          },
-          {
-            "Department": {
               "text": "SEMAR Logo 2019.svg Secretariat of Navy(Secretaría de Marina)",
               "links": [
                 {
@@ -855,12 +825,6 @@
         ]
       ],
       "templates": [
-        {
-          "template": "-"
-        },
-        {
-          "template": "-"
-        },
         {
           "template": "-"
         },
