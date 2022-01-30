@@ -225,6 +225,18 @@
           },
           "tamaño logo": {
             "text": "250px"
+          },
+          "título ejecutivo": {
+            "text": "Gobernadora"
+          },
+          "gobernador": {
+            "text": "Victoria Rodríguez Ceja",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victoria Rodríguez Ceja"
+              }
+            ]
           }
         }
       ],
@@ -4807,6 +4819,67 @@
       ]
     },
     {
+      "title": "Véase también",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Edificio del Banco de México",
+            "links": [
+              {
+                "text": "Edificio del Banco de México",
+                "type": "internal",
+                "page": "Banco de México (edificio)"
+              }
+            ]
+          },
+          {
+            "text": "Secretaría de Hacienda y Crédito Público",
+            "links": [
+              {
+                "text": "Secretaría de Hacienda y Crédito Público",
+                "type": "internal",
+                "page": "Secretaría de Hacienda y Crédito Público (México)"
+              }
+            ]
+          },
+          {
+            "text": "Economía de México",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economía de México"
+              }
+            ]
+          },
+          {
+            "text": "Esquema de Objetivos de Inflación",
+            "links": [
+              {
+                "text": "Esquema de Objetivos de Inflación",
+                "type": "internal",
+                "page": "Inflación objetivo"
+              }
+            ]
+          },
+          {
+            "text": "Prestamista de última instancia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prestamista de última instancia"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
       "title": "Referencias",
       "depth": 0,
       "templates": [
@@ -5028,67 +5101,6 @@
       ]
     },
     {
-      "title": "Véase también",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Edificio del Banco de México",
-            "links": [
-              {
-                "text": "Edificio del Banco de México",
-                "type": "internal",
-                "page": "Banco de México (edificio)"
-              }
-            ]
-          },
-          {
-            "text": "Secretaría de Hacienda y Crédito Público",
-            "links": [
-              {
-                "text": "Secretaría de Hacienda y Crédito Público",
-                "type": "internal",
-                "page": "Secretaría de Hacienda y Crédito Público (México)"
-              }
-            ]
-          },
-          {
-            "text": "Economía de México",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Economía de México"
-              }
-            ]
-          },
-          {
-            "text": "Esquema de Objetivos de Inflación",
-            "links": [
-              {
-                "text": "Esquema de Objetivos de Inflación",
-                "type": "internal",
-                "page": "Inflación objetivo"
-              }
-            ]
-          },
-          {
-            "text": "Prestamista de última instancia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prestamista de última instancia"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
       "title": "Enlaces externos",
       "depth": 0,
       "paragraphs": [
@@ -5104,92 +5116,12 @@
       "lists": [
         [
           {
-            "text": "Sitio Oficial del Banco de México",
+            "text": "Sitio oficial del Banco de México.",
             "links": [
               {
-                "text": "Sitio Oficial del Banco de México",
+                "text": "Sitio oficial",
                 "type": "external",
                 "site": "http://www.banxico.org.mx/"
-              }
-            ]
-          },
-          {
-            "text": "Ley del Banco de México",
-            "links": [
-              {
-                "text": "Ley del Banco de México",
-                "type": "external",
-                "site": "http://www.banxico.org.mx/disposiciones/marco-juridico/ley-del-banco-de-mexico/%7B6A70B07F-127A-0079-220C-83843B089097%7D.pdf"
-              }
-            ]
-          },
-          {
-            "text": "Banco de México: Material educativo",
-            "links": [
-              {
-                "text": "Banco de México: Material educativo",
-                "type": "external",
-                "site": "https://web.archive.org/web/20090820054408/http://www.banxico.org.mx/tipo/MaterialEducativo/index.html"
-              }
-            ]
-          },
-          {
-            "text": "Premio Cont@cto Banxico",
-            "links": [
-              {
-                "text": "Premio Cont@cto Banxico",
-                "type": "external",
-                "site": "http://www.banxico.org.mx/contactobanxico"
-              }
-            ]
-          },
-          {
-            "text": "Lista de Bancos de México",
-            "links": [
-              {
-                "text": "Lista de Bancos de México",
-                "type": "external",
-                "site": "http://www.listadebancos.com/bancos-de-mexico.htm"
-              }
-            ]
-          },
-          {
-            "text": "Banco de México en YouTube",
-            "links": [
-              {
-                "text": "Banco de México en YouTube",
-                "type": "external",
-                "site": "http://www.youtube.com/canalbanxico"
-              }
-            ]
-          },
-          {
-            "text": "Buró de Crédito",
-            "links": [
-              {
-                "text": "Buró de Crédito",
-                "type": "external",
-                "site": "https://web.archive.org/web/20190417224232/https://checarburodecredito.com.mx/"
-              }
-            ]
-          },
-          {
-            "text": "Banco de México en Twitter",
-            "links": [
-              {
-                "text": "Banco de México en Twitter",
-                "type": "external",
-                "site": "https://twitter.com/Banxico"
-              }
-            ]
-          },
-          {
-            "text": "Banco de México información resumida",
-            "links": [
-              {
-                "text": "Banco de México información resumida",
-                "type": "external",
-                "site": "https://www.planetamexico.com.mx/banco-de-mexico-informacion-util-F120CC00719D04D"
               }
             ]
           }

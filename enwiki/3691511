@@ -75,6 +75,10 @@
       ],
       "templates": [
         {
+          "description": "Mexican educator, politician and writer",
+          "template": "short description"
+        },
+        {
           "year": "1964",
           "month": "08",
           "day": "12",
