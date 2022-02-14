@@ -39,6 +39,15 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Portrait of María Luisa Albores.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Portrait_of_Mar%C3%ADa_Luisa_Albores.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Portrait_of_Mar%C3%ADa_Luisa_Albores.png",
+          "caption": "María Luisa Albores in 2021.",
+          "links": []
+        }
+      ],
       "templates": [
         {
           "date": "February 2021",
