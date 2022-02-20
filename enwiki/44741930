@@ -22,194 +22,22 @@
         {
           "sentences": [
             {
-              "text": "Alejandro Gertz Manero (born 31 October 1939) is a Mexican lawyer and current Attorney General of Mexico.",
-              "links": [
-                {
-                  "text": "Mexican",
-                  "type": "internal",
-                  "page": "Mexican people"
-                },
-                {
-                  "type": "internal",
-                  "page": "Attorney General of Mexico"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Alejandro Gertz Manero"
-                ]
-              }
+              "text": "Fue coordinador nacional de la campaña contra el narcotráfico en 1976, a través de la Operación Cóndor."
             },
             {
-              "text": "He served as Secretary of Public Security during part of Vicente Fox's government.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Vicente Fox"
-                }
-              ]
+              "text": "Fue secretario general del Instituto Nacional de Antropología e Historia, procurador federal de defensa del trabajo y adquirió notoriedad como secretario de seguridad pública del gobierno del Distrito Federal, durante las administraciones de Cuauhtémoc Cárdenas Solórzano y Rosario Robles."
             },
             {
-              "text": "From 2009 to 2012 he served as Deputy of the LXI Legislature of the Mexican Congress representing the State of Mexico.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "LXI Legislature of the Mexican Congress"
-                },
-                {
-                  "type": "internal",
-                  "page": "State of Mexico"
-                }
-              ]
+              "text": "Fue designado por el entonces presidente electo de México, Vicente Fox titular de la recién creada Secretaría de Seguridad Pública del gobierno federal, de la cual fue el primer titular."
             }
           ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:DHS Secretary Alejandro Mayorkas Meets with Gertz Manero.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/DHS_Secretary_Alejandro_Mayorkas_Meets_with_Gertz_Manero.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/DHS_Secretary_Alejandro_Mayorkas_Meets_with_Gertz_Manero.jpg",
-          "caption": "Gertz Manero meets with U.S. Homeland Security Secretary Alejandro Mayorkas at FGR Headquarters in Mexico City in June 2021.",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "description": "Mexican lawyer and politician",
-          "template": "short description"
         },
         {
-          "list": [
-            "Gertz",
-            "Manero"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1939",
-          "month": "10",
-          "day": "31",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Alejandro Gertz Manero.jpg"
-          },
-          "name": {
-            "text": "Alejandro Gertz Manero"
-          },
-          "office": {
-            "text": "Attorney General of Mexico",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Attorney General of Mexico"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "18 January 2019"
-          },
-          "nominator": {
-            "text": "Andrés Manuel López Obrador",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrés Manuel López Obrador"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
+          "sentences": [
+            {
+              "text": "Fue postulado en 2009 a diputado federal plurinominal de México por el Partido Convergencia, encabezando la lista.[4]​"
             }
-          },
-          "office1": {
-            "text": "1st Secretary of Public Security",
-            "links": [
-              {
-                "text": "Secretary of Public Security",
-                "type": "internal",
-                "page": "Secretariat of Public Security"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 December 2000"
-          },
-          "term_end1": {
-            "text": "3 June 2004"
-          },
-          "president1": {
-            "text": "Vicente Fox",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vicente Fox"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "successor1": {
-            "text": "Ramón Martín Huerta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ramón Martín Huerta"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 31, 1939"
-          },
-          "birth_place": {
-            "text": "Mexico City, Mexico",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mexico City"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer and politician"
-          },
-          "education": {
-            "text": "Escuela Libre de Derecho (LLB) National Autonomous University of Mexico (PhD)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Escuela Libre de Derecho"
-              },
-              {
-                "type": "internal",
-                "page": "LLB"
-              },
-              {
-                "type": "internal",
-                "page": "National Autonomous University of Mexico"
-              },
-              {
-                "type": "internal",
-                "page": "PhD"
-              }
-            ]
-          }
+          ]
         }
       ]
     }
