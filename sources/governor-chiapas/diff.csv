@@ -11,8 +11,8 @@
 +++,Roberto Palazuelos,,1832,1833
 +++,Rafael Rodríguez Leon,,1832,1832
 +++,Manuel Escandón,,1832,1832
-+++,Joaquín Miguel Gutiérrez,Q5932240,1833,1833
 +++,Joaquín Miguel Gutiérrez,Q5932240,1833,1835
++++,Joaquín Miguel Gutiérrez,Q5932240,1833,1833
 +++,Emeterio Pineda,Q5830737,1833,1833
 +++,Mariano Montes de Oca,,1835,1836
 +++,Ignacio Tovilla,,1835,1835
@@ -54,8 +54,8 @@
 +++,Manuel Cerón,,1876,1876
 +++,Eleuterio Villasana,,1876,1876
 +++,Carlos Borda,,1876,1876
-+++,Sebastián Escobar,Q3476928,1877,1877
 +++,Sebastián Escobar,Q3476928,1877,1878
++++,Sebastián Escobar,Q3476928,1877,1877
 +++,Mariano Nicolás Ruíz,,1877,1877
 +++,Diego Betanzos,,1877,1877
 +++,Juan José Ramírez,,1878,1879
@@ -85,9 +85,9 @@
 +++,Onofre Ramos,,1904,1904
 +++,Rafael Pimentel,Q6097811,1905,1905-12-12
 +++,Rafael Pimentel,Q6097811,1905,1905
++++,Ramón Rabasa,,1905,1905
 +++,Miguel Castillo,,1905,1905
 +++,Onofre Ramos,,1905,1905
-+++,Ramón Rabasa,,1905,1905
 +++,Ramón Rabasa,,1906,1908
 +++,Abraham A. López,,1906,1906
 +++,Abraham A. López,,1908,1908
@@ -130,8 +130,8 @@
 +++,Juan Zertuche,,1920,1920
 +++,Francisco G. Ruíz,,1920,1920
 +++,Benigno Cal y Mayor,,1921,1921
-+++,Tiburcio Fernández Ruíz,Q9087536,1922,1922
 +++,Tiburcio Fernández Ruíz,Q9087536,1922,1923
++++,Tiburcio Fernández Ruíz,Q9087536,1922,1922
 +++,Amadeo Ruíz,,1922,1922
 +++,Tiburcio Fernández Ruíz,Q9087536,1923,1924
 +++,Manuel Encarnación Cruz,,1923,1923
@@ -141,8 +141,8 @@
 +++,Martín Paredes,,1924,1924
 +++,Luis García,,1924,1924
 +++,Rogelio García Castro,,1924,1924
-+++,Carlos A. Vidal,Q2838764,1925,1925
 +++,Carlos A. Vidal,Q2838764,1925,1926
++++,Carlos A. Vidal,Q2838764,1925,1925
 +++,José Castañon,,1925,1925
 +++,César Córdova,,1925,1925
 +++,J. Amilcar Vidal,,1926,1926
@@ -166,29 +166,15 @@
 +++,Rodolfo Ruíz,,1932,1932
 +++,Mariano G. A. Enríquez,,1932,1932
 +++,Efraín A. Gutiérrez,,1936,1940
-+++,Amador Coutiño de Coss,Q16488405,1936-09-29,1936-12-14
-+++,Rafael Pascacio Gamboa,Q47216319,1940-12-08,1944-12-07
+->,Rafael Pascasio Gamboa->Rafael Pascacio Gamboa,Q47216319,1940-12-08,1944-12-07
 +++,Juan María Esponda,,1944,1946
 +++,César Augusto Lara Ramos,,1946,1948
 +++,Francisco J. Grajales,,1948,1952
 +++,Efraín Aranda Osorio,,1952,1958
-+++,Samuel León Brindis,Q6118157,1958-12-08,1964-12-07
-+++,José Castillo Tielemans,Q5495696,1964-12-01,1970-12-30
-+++,Manuel Velasco Suárez,Q10324529,1970,1976
-+++,Jorge de la Vega Domínguez,Q5936333,1976-12-01,1977-12-09
-+++,Salomón González Blanco,Q6117430,1977-12-09,1979-11-28
-+++,Juan Sabines Gutiérrez,Q9015964,1979-11-29,1982-11-30
-+++,Gustavo Armendáriz Ruíz,Q9001494,1982-12-01,1982-12-08
-+++,Absalón Castellanos Domínguez,Q2783029,1982-12-08,1988-12-07
-+++,José Patrocinio González Blanco Garrido,Q6066916,1988-12-08,1993-01-04
-+++,Elmar Setzer Marseille,Q19825895,1993-01-04,1994-01-18
-+++,Javier López Moreno,Q5927909,1994-01-18,1994-12-07
-+++,Eduardo Robledo Rincón,Q5819636,1994-12-08,1995-01-14
+->,Gustavo Armendáriz->Gustavo Armendáriz Ruíz,Q9001494,1982-12-01,1982-12-08
+->,Patrocinio González Garrido->José Patrocinio González Blanco Garrido,Q6066916,1988-12-08,1993-01-04
 +++,Julio César Ruiz Ferro,,1995-01-14,1998-01-07
-+++,Roberto Albores Guillén,Q5942901,1998-01-07,2000-12-07
-+++,Pablo Abner Salazar Mendiguchía,Q1961491,2000-12-08,2006-12-07
-+++,Juan Sabines Guerrero,Q3131104,2006-12-08,2012-12-07
-+++,Manuel Velasco Coello,Q5994523,2012-12-08,2018-12-07
-+++,Willy Ochoa Gallegos,Q16217519,2018-08-29,2018-09-04
-+++,Manuel Velasco Coello,Q5994523,2018-09-04,2018-12-07
-+++,Rutilio Escandón Cadenas,Q6114542,2018-12-08,
+->,Pablo Salazar Mendiguchía->Pablo Abner Salazar Mendiguchía,Q1961491,2000-12-08,2006-12-07
+->,Manuel Velasco Coello,Q5994523,2012-12-08,2018-08-29->2018-12-07
+->,Willy Ochoa->Willy Ochoa Gallegos,Q16217519,2018-08-29,2018-09-04
+->,Rutilio Cruz Escandón->Rutilio Escandón Cadenas,Q6114542,2018-12-08,
