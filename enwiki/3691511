@@ -109,7 +109,13 @@
             "text": "Bachelors degree in English Language"
           },
           "alma_mater": {
-            "text": "Monterrey Institute of Technology and Higher Education"
+            "text": "Monterrey Institute of Technology and Higher Education",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monterrey Institute of Technology and Higher Education"
+              }
+            ]
           },
           "notable_works": {
             "text": "Crónica de un fraude anunciado",

@@ -411,7 +411,13 @@
               "text": "Secretary of Security(Secretario de Seguridad)"
             },
             "Incumbent": {
-              "text": "Rosa Icela Rodríguez (b.1959)"
+              "text": "Rosa Icela Rodríguez (b.1959)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rosa Icela Rodríguez"
+                }
+              ]
             },
             "Image": {
               "text": ""
@@ -511,11 +517,11 @@
           },
           {
             "Department": {
-              "text": "SCT Logo 2019.svg Secretariat of Communications and Transportation(Secretaría de Comunicaciones y Transportes)",
+              "text": "SICT logo 2018-2024.svg Secretariat of Infrastructure, Communications and Transportation(Secretaría de Infraestructura, Comunicaciones y Transportes)",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Secretariat of Communications and Transportation"
+                  "page": "Secretariat of Infrastructure, Communications and Transportation"
                 }
               ]
             },
@@ -672,7 +678,13 @@
               "text": "Secretary of Education(Secretario de Educación)"
             },
             "Incumbent": {
-              "text": "Delfina Gómez Álvarez (b.1962)"
+              "text": "Delfina Gómez Álvarez (b.1962)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Delfina Gómez Álvarez"
+                }
+              ]
             },
             "Image": {
               "text": "Delfina Gómez (cropped).jpg"
@@ -1023,7 +1035,13 @@
               ]
             },
             "Incumbent": {
-              "text": "Lorena Cruz Sánchez"
+              "text": "Lorena Cruz Sánchez",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lorena Cruz Sánchez"
+                }
+              ]
             },
             "Image": {
               "text": ""
