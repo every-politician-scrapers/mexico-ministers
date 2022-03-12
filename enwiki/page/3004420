@@ -147,7 +147,7 @@
           "links": []
         },
         {
-          "file": "File:Mexican President's Cabinet Meeting.jpg",
+          "file": "File:Mexican_President's_Cabinet_Meeting.jpg",
           "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mexican_President's_Cabinet_Meeting.jpg?width=300",
           "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mexican_President's_Cabinet_Meeting.jpg",
           "caption": "Meeting of the cabinet of Mexican President Enrique Peña Nieto",
@@ -985,7 +985,7 @@
       ],
       "images": [
         {
-          "file": "File:Mexican President's Cabinet Meeting 2.jpg",
+          "file": "File:Mexican_President's_Cabinet_Meeting_2.jpg",
           "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mexican_President's_Cabinet_Meeting_2.jpg?width=300",
           "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mexican_President's_Cabinet_Meeting_2.jpg",
           "caption": "Meeting of the cabinet of Mexican President Enrique Peña Nieto",
@@ -1026,11 +1026,8 @@
               "links": [
                 {
                   "text": "National Institute for Women",
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "es"
-                  }
+                  "type": "internal",
+                  "page": ":es:Instituto Nacional de las Mujeres (Mexico)"
                 }
               ]
             },
