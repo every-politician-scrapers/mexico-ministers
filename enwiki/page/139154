@@ -2748,7 +2748,7 @@
               ]
             },
             "Secretario de Hacienda (Periodo)": {
-              "text": "Ernesto Cordero Arroyo (2009-2011) José Antonio Meade Kuribreña (2011-2012) Luis Videgaray Caso (2012-2016) José Antonio Meade Kuribreña (2016-2017)",
+              "text": "Ernesto Cordero Arroyo (2009-2011) José Antonio Meade Kuribreña (2011-2012) Luis Videgaray Caso (2012-2016) José Antonio Meade Kuribreña (2016-2017)José Antonio González Anaya (2017-2018)",
               "links": [
                 {
                   "type": "internal",
@@ -2761,6 +2761,10 @@
                 {
                   "type": "internal",
                   "page": "Luis Videgaray Caso"
+                },
+                {
+                  "type": "internal",
+                  "page": "José Antonio González Anaya"
                 }
               ]
             },
@@ -2811,7 +2815,7 @@
               ]
             },
             "Secretario de Hacienda (Periodo)": {
-              "text": "Ernesto Cordero Arroyo (2009-2011) José Antonio Meade Kuribreña (2011-2012) Luis Videgaray Caso (2012-2016) José Antonio Meade Kuribreña (2016-2017)",
+              "text": "Ernesto Cordero Arroyo (2009-2011) José Antonio Meade Kuribreña (2011-2012) Luis Videgaray Caso (2012-2016) José Antonio Meade Kuribreña (2016-2017)José Antonio González Anaya (2017-2018)",
               "links": [
                 {
                   "type": "internal",
@@ -2824,6 +2828,10 @@
                 {
                   "type": "internal",
                   "page": "Luis Videgaray Caso"
+                },
+                {
+                  "type": "internal",
+                  "page": "José Antonio González Anaya"
                 }
               ]
             },
@@ -2873,12 +2881,8 @@
               ]
             },
             "Secretario de Hacienda (Periodo)": {
-              "text": "José Antonio González Anaya (2017-2018) Carlos Urzúa Macías (2018-2019) Arturo Herrera Gutiérrez (2019-2021) Rogelio Ramírez de la O (2021-)",
+              "text": "Carlos Urzúa Macías (2018-2019) Arturo Herrera Gutiérrez (2019-2021) Rogelio Ramírez de la O (2021-)",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "José Antonio González Anaya"
-                },
                 {
                   "text": "Carlos Urzúa Macías",
                   "type": "internal",
@@ -2940,12 +2944,8 @@
               ]
             },
             "Secretario de Hacienda (Periodo)": {
-              "text": "José Antonio González Anaya (2017-2018) Carlos Urzúa Macías (2018-2019) Arturo Herrera Gutiérrez (2019-2021) Rogelio Ramírez de la O (2021-)",
+              "text": "Carlos Urzúa Macías (2018-2019) Arturo Herrera Gutiérrez (2019-2021) Rogelio Ramírez de la O (2021-)",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "José Antonio González Anaya"
-                },
                 {
                   "text": "Carlos Urzúa Macías",
                   "type": "internal",
