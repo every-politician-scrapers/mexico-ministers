@@ -30,6 +30,10 @@ class OfficeholderList < OfficeholderListBase
     def endDate
       '2018-08-31'
     end
+
+    def empty?
+      false
+    end
   end
 end
 
