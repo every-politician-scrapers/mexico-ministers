@@ -4,6 +4,24 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
+class OfficeholderNonTable < OfficeholderListBase::OfficeholderBase
+  def empty?
+    false
+  end
+
+  def combo_date?
+    true
+  end
+
+  def combo_date
+    raise 'need to define a combo_date'
+  end
+
+  def name_node
+    raise 'need to define a name_node'
+  end
+end
+
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -14,25 +32,13 @@ class OfficeholderList < OfficeholderListBase
     noko.xpath("//table[.//th[contains(.,'Diputado')]][position()=3]//tr[td]//td[position()=2 or position()=5]//a")
   end
 
-  class Officeholder < OfficeholderBase
-    def itemLabel
-      noko.text.tidy
+  class Officeholder < OfficeholderNonTable
+    def name_node
+      noko
     end
 
-    def item
-      noko.attr('wikidata')
-    end
-
-    def startDate
-      '2003-09-01'
-    end
-
-    def endDate
-      '2006-08-31'
-    end
-
-    def empty?
-      false
+    def combo_date
+      ['', '']
     end
   end
 end
