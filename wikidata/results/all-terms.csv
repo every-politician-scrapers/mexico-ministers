@@ -1,4 +1,7 @@
 ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+55,Q2886639,LV Legislature of the Mexican Congress,,,,,,,,,,,,,,,Q5961637,LIV Legislature of the Mexican Congress,Q5961796,LVI Legislature of the Mexican Congress
+54,Q5961637,LIV Legislature of the Mexican Congress,,,,,,,,,,,,,,,,,,
+56,Q5961796,LVI Legislature of the Mexican Congress,,,,,,,,,,,,,,,Q2886639,LV Legislature of the Mexican Congress,Q2841349,LVII Legislature of the Mexican Congress
 1,Q95044524,1st. Mexican Constitutional Congress,1825-01-01,,1825-01-01,11,,,,,,,,,,,,,,
 2,Q97142445,2nd. Mexican Constitutional Congress,1827-01-01,,1827-01-01,11,,,,,,,,,,,,,,
 51,Q5961644,LI Legislature of the Mexican Congress,1979-09-01,1982-08-31,1979-09-01,11,1979-09-01,11,,,1982-08-31,11,,,,,,,,
