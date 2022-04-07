@@ -20,7 +20,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      tds[2].text == tds[3].text
+      (tds[2].text == tds[3].text) || (startDate[0...4].to_i < 1990)
     end
   end
 end
