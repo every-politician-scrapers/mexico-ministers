@@ -16,24 +16,11 @@ class OfficeholderList < OfficeholderListBase
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[_ col  img name no dates].freeze
-    end
-
-    # Different tables have different numbers of columns
-    def name_cell
-      tds[-4]
-    end
-
-    def combo_date_cell
-      tds[-2]
+      %w[_ img name no party dates].freeze
     end
 
     def raw_combo_date
-      super.gsub(/Desde el (?<date>.*)/, '\k<date> -').tidy
-    end
-
-    def combo_date
-      super rescue binding.pry
+      super.gsub(/Desde el (?<date>.*)/, '\k<date> - Incumbent').tidy
     end
   end
 end
