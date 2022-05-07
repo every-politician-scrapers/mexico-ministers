@@ -23,8 +23,8 @@ class OfficeholderList < OfficeholderListBase
       super.gsub('*', '').tidy
     end
 
-    def empty?
-      tds[0].text == tds[1].text
+    def ignore_before
+      1991
     end
   end
 end
