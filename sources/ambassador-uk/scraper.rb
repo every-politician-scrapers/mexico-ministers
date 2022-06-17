@@ -22,10 +22,6 @@ class OfficeholderList < OfficeholderListBase
     def raw_end
       super.gsub('*', '').tidy
     end
-
-    def ignore_before
-      1991
-    end
   end
 end
 
