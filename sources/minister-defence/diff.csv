@@ -1,4 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-->,Marcelino García Barragán->Marcelino García Barragan,Q2244651,1964-12-01,1970-11-30
-->,Gerardo Clemente Ricardo Vega García->Gerardo Clemente Vega,Q2380760,2000-12-01,2006-11-30
-->,Salvador Cienfuegos->Salvador Cienfuegos Zepeda,Q6117660,2012-12-01,2018-11-30
+@@,item,itemlabel,startdate,enddate
+->,Q2380760,Gerardo Clemente Ricardo Vega García->Gerardo Clemente Vega,2000-12-01,2006-11-30
+->,Q6117660,Salvador Cienfuegos->Salvador Cienfuegos Zepeda,2012-12-01,2018-11-30
