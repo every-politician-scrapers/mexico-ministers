@@ -1,17 +1,16 @@
-@@,itemlabel,item,startdate,enddate
-+++,María de los Ángeles Moreno,Q9030231,2000-03,2000-09-01
-->,Enrique Jackson->Jesús Enrique Jackson Ramírez,Q2313196,2000-09-01,2001-08-31
-->,Diego Fernández de Cevallos->Diego Fernández de Cevallos Ramos,Q2108989,2001-09-01,2002-08-31
-->,Enrique Jackson->Jesús Enrique Jackson Ramírez,Q2313196,2002-09-01,2004-08-31->2003-08-31
-+++,Jesús Enrique Jackson Ramírez,Q2313196,2003-09-01,2004-08-31
-->,Diego Fernández de Cevallos->Diego Fernández de Cevallos Ramos,Q2108989,2004-09-01,2005-08-31
-->,Enrique Jackson->Jesús Enrique Jackson Ramírez,Q2313196,2005-09-01,2006-08-31
-->,Manlio Fabio Beltrones Rivera->Gustavo Madero Muñoz,Q2355497->Q2676934,2006-09-01,2007-08-31
-->,Santiago Creel->Santiago Creel Miranda,Q2241589,2007-09-01,2008-08-31
-+++,Manlio Fabio Beltrones Rivera,Q2355497,2008-09-01,2009-08-31
-->,Carlos Navarrete Ruiz,Q5751134,2009-09-01->2011-09-01,2010-08-31->2012-08-31
-->,José González Morfin,Q5940123,2011-09-01->2009-09-01,2012-08-31->2010-08-31
-->,Ernesto Cordero Arroyo->Ernesto Javier Cordero Arroyo,Q2911565,2012-09-01,2013-08-31
-->,Ernesto Cordero Arroyo->Ernesto Javier Cordero Arroyo,Q2911565,2017-09-01,2018-08-31
-->,Martí Batres->Martí Batres Guadarrama,Q5475632,2018-09-01,2019-08-31
-->,Oscar Eduardo Ramírez Aguilar->Eduardo Ramírez Aguilar,Q16216731,2020-09-01,2021-08-31
+@@,item,itemlabel,startdate,enddate
+->,Q2313196,Enrique Jackson->Jesús Enrique Jackson Ramírez,2000-09-01,2001-08-31
+->,Q2108989,Diego Fernández de Cevallos->Diego Fernández de Cevallos Ramos,2001-09-01,2002-08-31
+->,Q2313196,Enrique Jackson->Jesús Enrique Jackson Ramírez,2002-09-01,2004-08-31->2003-08-31
++++,Q2313196,Jesús Enrique Jackson Ramírez,2003-09-01,2004-08-31
+->,Q2108989,Diego Fernández de Cevallos->Diego Fernández de Cevallos Ramos,2004-09-01,2005-08-31
+->,Q2313196,Enrique Jackson->Jesús Enrique Jackson Ramírez,2005-09-01,2006-08-31
+->,Q2355497->Q2676934,Manlio Fabio Beltrones Rivera->Gustavo Madero Muñoz,2006-09-01,2007-08-31
+->,Q2241589,Santiago Creel->Santiago Creel Miranda,2007-09-01,2008-08-31
++++,Q2355497,Manlio Fabio Beltrones Rivera,2008-09-01,2009-08-31
+->,Q5751134,Carlos Navarrete Ruiz,2009-09-01->2011-09-01,2010-08-31->2012-08-31
+->,Q5940123,José González Morfin,2011-09-01->2009-09-01,2012-08-31->2010-08-31
+->,Q2911565,Ernesto Cordero Arroyo->Ernesto Javier Cordero Arroyo,2012-09-01,2013-08-31
+->,Q2911565,Ernesto Cordero Arroyo->Ernesto Javier Cordero Arroyo,2017-09-01,2018-08-31
+->,Q5475632,Martí Batres->Martí Batres Guadarrama,2018-09-01,2019-08-31
+->,Q16216731,Oscar Eduardo Ramírez Aguilar->Eduardo Ramírez Aguilar,2020-09-01,2021-08-31
