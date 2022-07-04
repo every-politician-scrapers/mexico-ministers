@@ -35,6 +35,7 @@ Q19519386,Fabiola Vázquez Saut,father,Q2782897,Cirilo Vázquez Lagunes
 Q19519386,Fabiola Vázquez Saut,sibling,Q16221662,Regina Vázquez Saut
 Q19521973,Miguel Torruco Marqués,child,Q105854208,María Elena Torruco
 Q19953819,Zoé Robledo Aburto,father,Q5819636,Eduardo Robledo Rincón
+Q19958074,Alfredo Hernández Raigosa,spouse,Q20014580,Dione Anguiano Flores
 Q2055969,Alfredo del Mazo González,child,Q19519065,Alejandro del Mazo
 Q2055969,Alfredo del Mazo González,child,Q5668133,Alfredo del Mazo Maza
 Q2055969,Alfredo del Mazo González,father,Q5668137,Alfredo del Mazo Vélez
@@ -53,6 +54,7 @@ Q24961861,Araceli Damián González,spouse,Q5955001,Julio Boltvinik
 Q25349690,Héctor Armando Cabada Alvídrez,father,Q20667132,Arnoldo Cabada de la O
 Q2566657,Layda Elena Sansores,father,Q3437517,Carlos Sansores Pérez
 Q26745937,Pablo Escudero Morales,spouse,Q46578384,Sylvana Beltrones Sánchez
+Q26883250,César González Madruga,father,Q5726076,Benjamín González Roaro
 Q2690356,César Nava Vázquez,spouse,Q6067062,Paty Sirvent
 Q286996,Dulce María Sauri Riancho,spouse,Q5941731,José Luis Sierra Villarreal
 Q2911565,Ernesto Cordero Arroyo,mother,Q50672233,Graciela Arroyo de Cordero
@@ -96,6 +98,7 @@ Q56753914,Ismael García Cabeza de Vaca,sibling,Q16300539,Francisco García Cabe
 Q5680996,Luis Alberto Villarreal,sibling,Q16221666,Ricardo Villarreal García
 Q5699236,Antonio Ortega Martínez,sibling,Q2913673,Jesús Ortega Martínez
 Q57086668,Josefa González-Blanco Ortiz-Mena,father,Q6066916,Patrocinio González Garrido
+Q5726076,Benjamín González Roaro,child,Q26883250,César González Madruga
 Q57269,Felipe Calderón,father,Q356264,Luis Calderón Vega
 Q57269,Felipe Calderón,spouse,Q2370402,Margarita Zavala de Calderón
 Q5751617,Carlos Rojas Gutiérrez,spouse,Q18378698,Mónica Fernández Balboa
