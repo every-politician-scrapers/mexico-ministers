@@ -2,8 +2,7 @@
   "title": "Banco de México",
   "pageID": 139154,
   "categories": [
-    "Economía de México",
-    "Bancos centrales de América",
+    "Banco de México",
     "Organizaciones fundadas en 1925",
     "México en 1925",
     "Órganos constitucionales autónomos de México"
@@ -211,10 +210,10 @@
             ]
           },
           "tipo de interés": {
-            "text": "7.0%",
+            "text": "7.75%",
             "links": [
               {
-                "text": "7.0%",
+                "text": "7.75%",
                 "type": "internal",
                 "page": "Anexo:Tasa de interés del banco central en América Latina"
               }
