@@ -62,6 +62,16 @@
           },
           "lat": 19.43489,
           "lon": -99.14043
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1925",
+            "month": "09",
+            "date": "01",
+            "template": "start date and age",
+            "text": "September 1, 1925"
+          }
         }
       ],
       "infoboxes": [
@@ -98,18 +108,25 @@
             ]
           },
           "reserves": {
-            "text": "168 370 million USD"
-          },
-          "headquarters": {
-            "text": "Mexico City, Mexico",
+            "text": "$168.37 b USD",
             "links": [
               {
                 "type": "internal",
-                "page": "Mexico City"
+                "page": "USD"
+              }
+            ]
+          },
+          "headquarters": {
+            "text": "2, 5 de Mayo Ave. Alc. Cuauhtémoc, Mexico City",
+            "links": [
+              {
+                "text": "Alc. Cuauhtémoc",
+                "type": "internal",
+                "page": "Cuauhtémoc, Mexico City"
               },
               {
                 "type": "internal",
-                "page": "Mexico"
+                "page": "Mexico City"
               }
             ]
           },
@@ -117,7 +134,7 @@
             "text": "19.43489°N, -99.14043°W"
           },
           "established": {
-            "text": "1 September 1925"
+            "text": "September 1, 1925"
           },
           "president": {
             "text": "Victoria Rodríguez Ceja"
@@ -152,7 +169,7 @@
           "currency_iso": {
             "text": "MXN"
           },
-          "overnight interest rate target": {
+          "interest_rate_target": {
             "text": "7.75%"
           },
           "website": {
