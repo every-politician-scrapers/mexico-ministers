@@ -1,0 +1,119 @@
+{
+  "title": "José Rafael Ojeda Durán",
+  "pageID": 66983194,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Morena (political party) politicians",
+    "21st-century Mexican politicians",
+    "Secretaries of the Navy (Mexico)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Rafael Ojeda Durán (born 3 February 1954) is a Mexican politician who is the Secretary of the Navy in the Cabinet of Andrés Manuel López Obrador.",
+              "links": [
+                {
+                  "text": "Secretary of the Navy",
+                  "type": "internal",
+                  "page": "Secretariat of the Navy"
+                },
+                {
+                  "text": "Cabinet of Andrés Manuel López Obrador",
+                  "type": "internal",
+                  "page": "Cabinet of Mexico"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Rafael Ojeda Durán"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Amlo13-640x263.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Amlo13-640x263.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Amlo13-640x263.png",
+          "caption": "Ojeda Duran.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mexican politician and Admiral of Mexican Navy",
+          "template": "short description"
+        },
+        {
+          "date": "March 2021",
+          "template": "expand spanish"
+        }
+      ],
+      "references": [
+        {
+          "title": "Almirante José Rafael Ojeda Durán",
+          "url": "http://www.gob.mx/semar/estructuras/almirante-jose-rafael-ojeda-duran-183759",
+          "access-date": "2021-03-10",
+          "website": "gob.mx",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2020, he announced a Marine Plan to help aid those affected by Tropical Storm Hernan.",
+              "links": [
+                {
+                  "text": "Tropical Storm Hernan",
+                  "type": "internal",
+                  "page": "Tropical Storm Hernan (2020)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Aplican Plan Marina por tormentas tropicales \"Hernán\" e \"Iselle\"",
+          "url": "https://www.informador.mx/mexico/Aplican-Plan-Marina-por-tormentas-tropicales-Hernan-e-Iselle--20200829-0047.html",
+          "access-date": "2021-04-02",
+          "website": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
+          "language": "es-ES",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reference list"
+        },
+        {
+          "template": "andrés manuel lópez obrador cabinet"
+        },
+        {
+          "template": "mexico-politician-nationalregeneration-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "title": "Miguel Barbosa Huerta",
+  "pageID": 40420123,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Politicians from Puebla",
+    "Honorary Knights Commander of the Order of the British Empire",
+    "Members of the Senate of the Republic (Mexico)",
+    "Members of the Chamber of Deputies (Mexico)",
+    "Presidents of the Senate of the Republic (Mexico)",
+    "Party of the Democratic Revolution politicians",
+    "Mexican amputees",
+    "21st-century Mexican politicians",
+    "Morena (political party) politicians",
+    "Governors of Puebla",
+    "21st-century Mexican lawyers",
+    "People from Tehuacán",
+    "National Autonomous University of Mexico alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Luis Miguel Gerónimo Barbosa Huerta (born 30 September 1959) is a Mexican politician affiliated with MORENA and current Governor of Puebla.",
+              "links": [
+                {
+                  "text": "Mexican",
+                  "type": "internal",
+                  "page": "Mexicans"
+                },
+                {
+                  "text": "MORENA",
+                  "type": "internal",
+                  "page": "Movimiento Regeneración Nacional"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of Puebla"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Luis Miguel Gerónimo Barbosa Huerta"
+                ]
+              }
+            },
+            {
+              "text": "He was a senator of the LXII and LXIII Legislatures of the Mexican Congress, and he also served as a federal deputy between 2000 and 2003.",
+              "links": [
+                {
+                  "text": "LXII",
+                  "type": "internal",
+                  "page": "LXII Legislature of the Mexican Congress"
+                },
+                {
+                  "text": "LXIII",
+                  "type": "internal",
+                  "page": "LXIII Legislature of the Mexican Congress"
+                }
+              ]
+            },
+            {
+              "text": "He was a candidate for the governorship of Puebla for the coalition Juntos Haremos Historia - formed by Morena, the Labor Party (PT) and the Social Encounter Party (PES) - for the state elections of 2018 and the extraordinary elections of 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Juntos Haremos Historia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mexican politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Barbosa",
+            "Huerta"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1959",
+          "month": "9",
+          "day": "30",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Miguel Barbosa Huerta"
+          },
+          "image": {
+            "text": "Miguel Barbosa (cropped).jpg"
+          },
+          "caption": {
+            "text": "Barbosa in 2019"
+          },
+          "birthname": {
+            "text": "Luis Miguel Gerónimo Barbosa Huerta"
+          },
+          "birth_date": {
+            "text": "September 30, 1959"
+          },
+          "birth_place": {
+            "text": "Tehuacán, Puebla, Mexico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tehuacán, Puebla"
+              },
+              {
+                "type": "internal",
+                "page": "Mexico"
+              }
+            ]
+          },
+          "office": {
+            "text": "Governor of Puebla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Puebla"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 August 2019"
+          },
+          "predecessor": {
+            "text": "Guillermo Pacheco Pulido",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guillermo Pacheco Pulido"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of the Senate of Mexico",
+            "links": [
+              {
+                "text": "President of the Senate of Mexico",
+                "type": "internal",
+                "page": "President of the Senate (Mexico)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 September 2014"
+          },
+          "term_end2": {
+            "text": "31 August 2015"
+          },
+          "predecessor2": {
+            "text": "Raúl Cervantes Andrade",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raúl Cervantes Andrade"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Roberto Gil Zuarth",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roberto Gil Zuarth"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Chamber of Deputies from Puebla",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies (Mexico)"
+              },
+              {
+                "type": "internal",
+                "page": "Puebla"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 September 2000"
+          },
+          "term_end3": {
+            "text": "31 August 2003"
+          },
+          "constituency3": {
+            "text": "4th electoral region",
+            "links": [
+              {
+                "text": "4th electoral region",
+                "type": "internal",
+                "page": "Electoral regions of Mexico"
+              }
+            ]
+          },
+          "party": {
+            "text": "Morena logo (Mexico).svg National Regeneration Movement (2017- ) PRD logo (Mexico).svg Party of the Democratic Revolution (1994-2017) PRI Party (Mexico).svg Institutional Revolutionary Party (1977-1994)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Regeneration Movement"
+              },
+              {
+                "type": "internal",
+                "page": "Party of the Democratic Revolution"
+              },
+              {
+                "type": "internal",
+                "page": "Institutional Revolutionary Party"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer"
+          },
+          "alma_mater": {
+            "text": "National Autonomous University of Mexico (LLB)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Autonomous University of Mexico"
+              },
+              {
+                "type": "internal",
+                "page": "LLB"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.eluniversal.com.mx/nacion/quien-es-miguel-barbosa-el-candidato-de-morena-en-puebla",
+          "title": "¿Quién es Miguel Barbosa Huerta?",
+          "date": "2019-01-04",
+          "website": "El Universal México",
+          "access-date": "12 July 2019",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Perfil del legislador",
+          "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=9217905",
+          "publisher": "Legislative Information System",
+          "access-date": "1 September 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.animalpolitico.com/2018/01/miguel-barbosa-morena-puebla/",
+          "title": "Se registra Miguel Barbosa como precandidato de Morena al gobierno de Puebla",
+          "date": "30 January 2018",
+          "access-date": "25 December 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.lajornadadeoriente.com.mx/2017/04/24/anuncia-miguel-barbosa-afiliacion-morena/",
+          "title": "Anuncia Miguel Barbosa su afiliación a Morena - Puebla",
+          "date": "24 April 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Controversies",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After a helicopter crash resulted in the death of Martha Érika Alonso Hidalgo, a politician for PAN who was the first female governor of Puebla, her husband, her predecessor and the two pilots, Miguel Barbosa responded saying that \"God punished them\" for allegedly stealing the election from him.",
+              "links": [
+                {
+                  "text": "helicopter crash",
+                  "type": "internal",
+                  "page": "2018 Puebla helicopter crash"
+                },
+                {
+                  "text": "Martha Érika Alonso Hidalgo",
+                  "type": "internal",
+                  "page": "Martha Erika Alonso Hidalgo"
+                },
+                {
+                  "text": "PAN",
+                  "type": "internal",
+                  "page": "National Action Party (Mexico)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On January 8, 2020, Arias Consultores released a poll that describes the best and worst governors."
+            },
+            {
+              "text": "Miguel Barbosa Huerta was declared the worst."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On March 24, 2020, Governor Barbosa claimed that only the wealthy were at risk of COVID-19, since the poor are immune.",
+              "links": [
+                {
+                  "text": "risk of COVID-19",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Mexico"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He illegally claimed to be a lawyer for over 30 years, only officially obtaining his degree a few months before becoming governor."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "elEconomista.es",
+          "title": "Barbosa dice que Dios castigó a los que le robaron la elección en 2018 - economiahoy.mx",
+          "url": "https://www.economiahoy.mx/nacional-eAm-mx/noticias/10131185/10/19/Barbosa-dice-que-Dios-castigo-a-los-que-le-robaron-la-eleccion-en-2018.html",
+          "access-date": "2021-04-26",
+          "website": "www.economiahoy.mx",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "website": "La Jornada",
+          "title": "Los peores y mejores gobernadores",
+          "date": "January 8, 2020",
+          "url": "https://www.lajornadamorelos.com.mx/nacional/2020/01/08/17109",
+          "language": "es",
+          "trans-title": "The worst and best governors",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://abcnews.go.com/International/wireStory/mexican-governor-poor-immune-coronavirus-69805644",
+          "title": "Mexican governor says poor are 'immune' to coronavirus",
+          "website": "ABC News",
+          "publisher": "Associated Press",
+          "date": "26 March 2020",
+          "access-date": "26 March 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.noventagrados.com.mx/politica/miguel-barbosa-paso-30-anos-sin-titulo-pero-en-6-meses-como-gobernador-ya-tiene-uno-de-la-unam.htm",
+          "title": "Miguel Barbosa pasó 30 años sin título, pero como Gobernador ya tiene uno de la UNAM",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "current mexican governors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "mexico-politician-morena-stub"
+        }
+      ]
+    }
+  ]
+}

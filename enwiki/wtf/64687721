@@ -1,0 +1,229 @@
+{
+  "title": "Jorge Arganis Díaz Leal",
+  "pageID": 64687721,
+  "categories": [
+    "1943 births",
+    "Living people",
+    "Mexican engineers",
+    "Mexican Secretaries of Communications and Transportation",
+    "Cabinet of Andrés Manuel López Obrador",
+    "21st-century Mexican politicians",
+    "People named in the Pandora Papers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jorge Arganis Díaz Leal (born 20 April 1943) is a civil engineer and current Secretary of Communications and Transportation of Mexico.",
+              "links": [
+                {
+                  "text": "civil engineer",
+                  "type": "internal",
+                  "page": "civil engineer"
+                },
+                {
+                  "text": "Secretary of Communications and Transportation",
+                  "type": "internal",
+                  "page": "Secretariat of Communications and Transportation (Mexico)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mexico"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jorge Arganis Díaz Leal"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2021, he was named in the Pandora Papers leak.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pandora Papers"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mexican politician",
+          "template": "short description"
+        },
+        {
+          "year": "1943",
+          "month": "04",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jorge Arganis Díaz Leal"
+          },
+          "image": {
+            "text": "Portrait of Jorge Arganis Díaz Leal.png"
+          },
+          "office": {
+            "text": "Secretary of Communications and Transportation",
+            "links": [
+              {
+                "text": "Secretary of Communications and Transportation",
+                "type": "internal",
+                "page": "Secretariat of Communications and Transportation (Mexico)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 July 2020"
+          },
+          "president": {
+            "text": "Andrés Manuel López Obrador",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrés Manuel López Obrador"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Javier Jiménez Espriú",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Javier Jiménez Espriú"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 20, 1943"
+          },
+          "birth_place": {
+            "text": "Mexico City",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mexico City"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.eluniversal.com.mx/nacion/miembros-de-la-4t-en-nuevo-escandalo-llamado-pandora-papers",
+          "title": "Miembros del actual gobierno en nuevo escándalo llamado \"Pandora Papers\"",
+          "date": "3 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He studied Civil Engineering at the Faculty of Engineering of the National Autonomous University of Mexico."
+            },
+            {
+              "text": "He obtained a diploma in Construction Administration (CMIC) and also had studies in Project Management and Business Development."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1963, he was appointed as Director General of Projects and Laboratories of the Secretariat of Public Works of National Autonomous University of Mexico.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Autonomous University of Mexico"
+                }
+              ]
+            },
+            {
+              "text": "In 1971 he worked as Technical Advisor of Pemex.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pemex"
+                }
+              ]
+            },
+            {
+              "text": "From 1977 to 1997 he worked in Ingenieros Civiles Asociados.",
+              "formatting": {
+                "italic": [
+                  "Ingenieros Civiles Asociados"
+                ]
+              }
+            },
+            {
+              "text": "From 2002 to 2006 he was Director General of Public Work in the administration of Andrés Manuel López Obrador as Head of Government of the Federal District.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andrés Manuel López Obrador"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Conferencistas – II Congreso Internacional de Ética profesional",
+          "url": "https://congresodeetica.com.co/conferencistas/",
+          "access-date": "2021-01-13",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "andrés manuel lópez obrador cabinet"
+        },
+        {
+          "template": "mexico-politician-stub"
+        }
+      ]
+    }
+  ]
+}

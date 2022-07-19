@@ -1,0 +1,434 @@
+{
+  "title": "Rutilio Escandón",
+  "pageID": 42499720,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Politicians from Chiapas",
+    "20th-century Mexican lawyers",
+    "Members of the Senate of the Republic (Mexico)",
+    "Members of the Chamber of Deputies (Mexico)",
+    "Morena (political party) politicians",
+    "National Autonomous University of Mexico alumni",
+    "21st-century Mexican politicians",
+    "Governors of Chiapas",
+    "Autonomous University of Baja California alumni",
+    "National Autonomous University of Mexico faculty",
+    "People from Venustiano Carranza, Chiapas",
+    "21st-century Mexican lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rutilio Cruz Escandón Cadenas (born 3 May 1958) is a Mexican lawyer and politician from Chiapas.",
+              "links": [
+                {
+                  "text": "Mexican",
+                  "type": "internal",
+                  "page": "Mexicans"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chiapas"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rutilio Cruz Escandón Cadenas"
+                ]
+              }
+            },
+            {
+              "text": "He is affiliated with the National Regeneration Movement and is the current Governor of Chiapas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Regeneration Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of Chiapas"
+                }
+              ]
+            },
+            {
+              "text": "Before becoming governor, he represented Chiapas as a senator of the LVIII and LIX and as a federal deputy in the LX Legislature.",
+              "links": [
+                {
+                  "text": "LVIII",
+                  "type": "internal",
+                  "page": "LVIII Legislature of the Mexican Congress"
+                },
+                {
+                  "text": "LIX",
+                  "type": "internal",
+                  "page": "LIX Legislature of the Mexican Congress"
+                },
+                {
+                  "text": "LX Legislature",
+                  "type": "internal",
+                  "page": "LX Legislature of the Mexican Congress"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mexican lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Escandón",
+            "Cadenas"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1958",
+          "month": "5",
+          "day": "3",
+          "template": "birth date and age"
+        },
+        {
+          "template": "mrn party"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rutilio Escandón"
+          },
+          "image": {
+            "text": "Gobernador Rutilio Escandón.jpg"
+          },
+          "order": {
+            "text": "Governor of Chiapas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Chiapas"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 December 2018"
+          },
+          "predecessor": {
+            "text": "Manuel Velasco Coello",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manuel Velasco Coello"
+              }
+            ]
+          },
+          "order2": {
+            "text": "Deputy of the Congress of the Union for the 3rd Circumscription",
+            "links": [
+              {
+                "text": "Congress of the Union",
+                "type": "internal",
+                "page": "Chamber of Deputies (Mexico)"
+              },
+              {
+                "text": "3rd Circumscription",
+                "type": "internal",
+                "page": "Electoral regions of Mexico"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 September 2006"
+          },
+          "term_end2": {
+            "text": "31 August 2009"
+          },
+          "constituency2": {
+            "text": "Chiapas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chiapas"
+              }
+            ]
+          },
+          "order3": {
+            "text": "Senator of the Congress of the Union for Chiapas",
+            "links": [
+              {
+                "text": "Congress of the Union",
+                "type": "internal",
+                "page": "Senate of the Republic (Mexico)"
+              },
+              {
+                "type": "internal",
+                "page": "Chiapas"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 September 2000"
+          },
+          "term_end3": {
+            "text": "31 August 2006"
+          },
+          "predecessor3": {
+            "text": "Irma Serrano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irma Serrano"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Rubén Velázquez López",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rubén Velázquez López"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Rutilio Cruz Escandón Cadenas"
+          },
+          "birth_date": {
+            "text": "May 3, 1958"
+          },
+          "birth_place": {
+            "text": "Venustiano Carranza, Chiapas, Mexico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Venustiano Carranza, Chiapas"
+              },
+              {
+                "type": "internal",
+                "page": "Mexico"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer"
+          },
+          "party": {
+            "text": "National Regeneration Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Regeneration Movement"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Mexican"
+          },
+          "education": {
+            "text": "Autonomous University of Baja California (LLB) National Autonomous University of Mexico (LLM, PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Autonomous University of Baja California"
+              },
+              {
+                "type": "internal",
+                "page": "LLB"
+              },
+              {
+                "type": "internal",
+                "page": "National Autonomous University of Mexico"
+              },
+              {
+                "type": "internal",
+                "page": "LLM"
+              },
+              {
+                "type": "internal",
+                "page": "PhD"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Perfil del legislador",
+          "url": "http://sil.gobernacion.gob.mx/Librerias/pp_PerfilLegislador.php?SID=&Referencia=2300498",
+          "publisher": "Legislative Information System",
+          "accessdate": "15 April 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Escandón grew up in Baja California, where he obtained a law degree at the Universidad Autónoma de Baja California in 1981 and was deputy director, and then director, of the state public property registry from 1981 to 1986.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Universidad Autónoma de Baja California"
+                }
+              ]
+            },
+            {
+              "text": "He became a law professor at the UNAM and the Universidad La Salle in 1989, obtaining a master's degree in law from the UNAM in 1990 and a doctorate the next year.",
+              "links": [
+                {
+                  "text": "UNAM",
+                  "type": "internal",
+                  "page": "National Autonomous University of Mexico"
+                },
+                {
+                  "type": "internal",
+                  "page": "Universidad La Salle"
+                }
+              ]
+            },
+            {
+              "text": "After several years at the Instituto Nacional de Migración in Guerrero and Chiapas, he became the director general of the Chiapas Electoral Commission in 1994 and returned to teaching at the Institute of Higher Studies in Tuxtla Gutiérrez.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Instituto Nacional de Migración"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tuxtla Gutiérrez"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1998, Escandón joined the PRD.",
+              "links": [
+                {
+                  "text": "PRD",
+                  "type": "internal",
+                  "page": "Party of the Democratic Revolution"
+                }
+              ]
+            },
+            {
+              "text": "After losing a bid to be elected to the Chiapas state legislature that year, Escandón became the state PRD's secretary general."
+            },
+            {
+              "text": "In 2000, he was elected senator, serving as a secretary on the Governance and Justice Commissions in the LVIII Legislature and as the president of the Social Development Commission in the LIX Legislature."
+            },
+            {
+              "text": "He also was a national councilor for the party."
+            },
+            {
+              "text": "Termed out of the Senate, he was placed on the PRD proportional representation list from the third region and served as a federal deputy in the LX Legislature, where he presided over the Special Commission for the National Farm Agreement.",
+              "links": [
+                {
+                  "text": "region",
+                  "type": "internal",
+                  "page": "Electoral regions of Mexico"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After his tenure in Congress, in 2013, Governor Manuel Velasco Coello nominated him to preside over the state's courts with the support of the PVEM, Velasco's party, which controlled the state legislature.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manuel Velasco Coello"
+                },
+                {
+                  "text": "PVEM",
+                  "type": "internal",
+                  "page": "Ecologist Green Party of Mexico"
+                }
+              ]
+            },
+            {
+              "text": "Escandón is known to be close with Velasco Coello's grandfather."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2017, Morena named Escandón its head of organization in Chiapas, a precursor to his official naming as the gubernatorial candidate in January."
+            },
+            {
+              "text": "Aided by a split between the PRI and governing PVEM as well as strong support nationwide for Morena, Escandón beat the other challengers handily on election night with exit polls putting him between 43 and 51 percent of the vote."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.eluniversal.com.mx/elecciones-2018/rutilio-escandon-se-registra-como-precandidato-de-morena-en-chiapas",
+          "work": "El Universal",
+          "title": "Rutilio Escandón se registra como precandidato de Morena en Chiapas",
+          "first": "Óscar",
+          "last": "Gutiérrez",
+          "date": "22 January 2018",
+          "accessdate": "2 July 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://politico.mx/central-electoral/elecciones-2018/morena-pone-rutilio-escand%C3%B3n-como-virtual-candidato-en-chiapas/",
+          "date": "15 September 2017",
+          "title": "Morena pone a Rutilio Escandón como virtual candidato en Chiapas",
+          "work": "Político.mx",
+          "accessdate": "2 July 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.eleconomista.com.mx/politica/Quien-es-Rutilio-Escandon-20180701-0220.html",
+          "work": "El Economista",
+          "date": "1 July 2018",
+          "title": "¿Quién es Rutilio Escandón",
+          "first": "Edgar",
+          "last": "Juárez",
+          "accessdate": "2 July 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "current mexican governors"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

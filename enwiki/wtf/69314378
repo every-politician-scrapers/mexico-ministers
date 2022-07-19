@@ -1,0 +1,97 @@
+{
+  "title": "Sergio Gutiérrez Luna",
+  "pageID": 69314378,
+  "categories": [
+    "Living people",
+    "1976 births",
+    "21st-century Mexican politicians",
+    "Deputies of the LXIV Legislature of Mexico",
+    "Deputies of the LXV Legislature of Mexico",
+    "People from Veracruz",
+    "Morena (political party) politicians",
+    "Presidents of the Chamber of Deputies (Mexico)",
+    "Members of the Chamber of Deputies (Mexico) for the State of Mexico"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sergio Carlos Gutiérrez Luna (born 12 July 1976) is a Mexican politician.",
+              "formatting": {
+                "bold": [
+                  "Sergio Carlos Gutiérrez Luna"
+                ]
+              }
+            },
+            {
+              "text": "He is currently serving as President of the Chamber of Deputies.",
+              "links": [
+                {
+                  "text": "President of the Chamber of Deputies",
+                  "type": "internal",
+                  "page": "President of the Chamber of Deputies (Mexico)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Potrait_of_Sergio_Gutiérrez_Luna.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Potrait_of_Sergio_Guti%C3%A9rrez_Luna.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Potrait_of_Sergio_Guti%C3%A9rrez_Luna.jpg",
+          "caption": "Sergio Gutiérrez Luna.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mexican politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Gutiérrez",
+            "Luna"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "November 2021",
+          "template": "expand spanish"
+        }
+      ],
+      "references": [
+        {
+          "last": "CA18",
+          "date": "2021-08-29",
+          "title": "Morenista Sergio Gutiérrez Luna will be president of the Chamber of Deputies",
+          "url": "https://california18.com/morenista-sergio-gutierrez-luna-will-be-president-of-the-chamber-of-deputies/251172021/",
+          "access-date": "2021-11-20",
+          "website": "California18",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mexico-politician-stub"
+        }
+      ]
+    }
+  ]
+}
