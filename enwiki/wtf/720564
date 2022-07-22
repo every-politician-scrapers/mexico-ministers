@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Andrés Manuel López Obrador (born 13 November 1953), also known by his initials AMLO, is a Mexican politician who has been the 65th president of Mexico since 1 December 2018.",
+              "text": "Andrés Manuel López Obrador (born 13 November 1953), also known by his initials AMLO, is a Mexican politician who has served as the 65th president of Mexico since 1 December 2018.",
               "links": [
                 {
                   "text": "president of Mexico",
@@ -106,7 +106,7 @@
               ]
             },
             {
-              "text": "In 1989, he joined the Party of the Democratic Revolution (PRD) and was the party's 1994 candidate for Governor of Tabasco.",
+              "text": "In 1989, he joined the Party of the Democratic Revolution (PRD), becoming the party's 1994 candidate for Governor of Tabasco, and national leader of the PRD between 1996 and 1999.",
               "links": [
                 {
                   "type": "internal",
@@ -119,15 +119,12 @@
               ]
             },
             {
-              "text": "He was the national leader of the PRD between 1996 and 1999."
-            },
-            {
               "text": "In 2000, he was elected Head of Government of Mexico City.",
               "links": [
                 {
                   "text": "Head of Government",
                   "type": "internal",
-                  "page": "List of heads of government of Mexico City"
+                  "page": "List of mayors of Mexico City"
                 },
                 {
                   "type": "internal",
@@ -136,11 +133,105 @@
               ]
             },
             {
-              "text": "In 2012, he left the PRD, and in 2014, he founded the National Regeneration Movement (MORENA), which he led until 2017.",
+              "text": "During tenure, his crime, infrastructure and social spending policies made him a popular figure on the Mexican left."
+            },
+            {
+              "text": "In 2004, his state immunity from prosecution was removed after refusing to cease construction on land allegedly expropriated by his predecessor, Rosario Robles.",
+              "links": [
+                {
+                  "text": "was removed",
+                  "type": "internal",
+                  "page": "Desafuero of Andrés Manuel López Obrador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rosario Robles"
+                }
+              ]
+            },
+            {
+              "text": "This desafuero process lasted for a year and ended with López Obrador maintaining his right to run for office.",
+              "formatting": {
+                "italic": [
+                  "desafuero"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "López Obrador was nominated presidential candidate by the Coalition for the Good of All during the 2006 elections, where he was narrowly defeated by the PAN candidate Felipe Calderón.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "National Regeneration Movement"
+                  "page": "Coalition for the Good of All"
+                },
+                {
+                  "text": "2006 elections",
+                  "type": "internal",
+                  "page": "2006 Mexican general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Felipe Calderón"
+                }
+              ]
+            },
+            {
+              "text": "While the Federal Electoral Tribunal noted a number of irregularities, it denied López Obrador's request for a general recount, which sparked protests across the country.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Federal Electoral Tribunal"
+                },
+                {
+                  "text": "sparked protests",
+                  "type": "internal",
+                  "page": "Controversies of the 2006 Mexican general election"
+                }
+              ]
+            },
+            {
+              "text": "In 2011 he founded Morena, a civil association and later political party.",
+              "links": [
+                {
+                  "text": "Morena",
+                  "type": "internal",
+                  "page": "Morena (political party)"
+                }
+              ]
+            },
+            {
+              "text": "He was candidate for the Progressive Movement coalition in the 2012 elections, won by the Commitment to Mexico coalition candidate Enrique Peña Nieto.",
+              "links": [
+                {
+                  "text": "Progressive Movement",
+                  "type": "internal",
+                  "page": "Progressive Movement (Mexico)"
+                },
+                {
+                  "text": "2012 elections",
+                  "type": "internal",
+                  "page": "2012 Mexican general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Commitment to Mexico"
+                },
+                {
+                  "type": "internal",
+                  "page": "Enrique Peña Nieto"
+                }
+              ]
+            },
+            {
+              "text": "In 2014, he left the PRD after protesting the party's signing of the Pact for Mexico, and joined Morena.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pact for Mexico"
                 }
               ]
             },
@@ -162,6 +253,11 @@
               "text": "Often described as a center-left, progressive, populist, and economic nationalist, López Obrador has been a national politician for more than three decades.",
               "links": [
                 {
+                  "text": "center-left",
+                  "type": "internal",
+                  "page": "Centre-left politics"
+                },
+                {
                   "text": "progressive",
                   "type": "internal",
                   "page": "Progressivism"
@@ -169,12 +265,12 @@
                 {
                   "text": "populist",
                   "type": "internal",
-                  "page": "populist"
+                  "page": "Populism"
                 },
                 {
                   "text": "economic nationalist",
                   "type": "internal",
-                  "page": "economic nationalist"
+                  "page": "Economic nationalism"
                 }
               ]
             },
@@ -189,10 +285,17 @@
               ]
             },
             {
-              "text": "Supporters have praised him for promoting institutional renewal after decades of high inequality and corruption."
+              "text": "Supporters have praised him for promoting institutional renewal after decades of high inequality and corruption, and for refocusing the country's neoliberal consensus towards improving the station of the working class.",
+              "links": [
+                {
+                  "text": "neoliberal",
+                  "type": "internal",
+                  "page": "Neoliberalism"
+                }
+              ]
             },
             {
-              "text": "Critics have claimed that his administration has stumbled in its response to the COVID-19 pandemic and attempts to deal with drug cartels and other crime, has antagonized Mexican democratic institutions, and that the economy had already faltered before the pandemic.",
+              "text": "Critics have claimed that his administration has stumbled in its response to the COVID-19 pandemic and attempts to deal with drug cartels and other crime, has antagonized Mexican democratic institutions and that the economy had already faltered before the pandemic.",
               "links": [
                 {
                   "text": "COVID-19 pandemic",
@@ -202,7 +305,7 @@
               ]
             },
             {
-              "text": "López Obrador's government has also been criticised for failing to combat violence against women in Mexico and its high rate of femicide, which has risen dramatically since 2018.",
+              "text": "López Obrador's government has also been criticized for failing to combat violence against women in Mexico and its high rate of femicide, which has risen dramatically since 2018.",
               "links": [
                 {
                   "text": "violence against women in Mexico",
@@ -1673,19 +1776,6 @@
           "type": "web"
         },
         {
-          "author": "Monica Campbell",
-          "date": "17 March 2004",
-          "title": "Clean and austere: Mexico's next president?",
-          "newspaper": "The Christian Science Monitor",
-          "url": "http://www.csmonitor.com/2004/0317/p06s01-woam.html",
-          "url-status": "live",
-          "access-date": "15 June 2008",
-          "archive-url": "https://web.archive.org/web/20080503030503/http://www.csmonitor.com/2004/0317/p06s01-woam.html",
-          "archive-date": "3 May 2008",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "date": "12 February 2002",
           "title": "En mayo arranca el proyecto de remodelación del Centro Histórico",
           "url": "https://www.proceso.com.mx/nacional/2002/2/12/en-mayo-arranca-el-proyecto-de-remodelacion-del-centro-historico-64422.html",
@@ -1746,6 +1836,19 @@
           "archive-date": "3 May 2008",
           "template": "citation",
           "type": "magazine"
+        },
+        {
+          "author": "Monica Campbell",
+          "date": "17 March 2004",
+          "title": "Clean and austere: Mexico's next president?",
+          "newspaper": "The Christian Science Monitor",
+          "url": "http://www.csmonitor.com/2004/0317/p06s01-woam.html",
+          "url-status": "live",
+          "access-date": "15 June 2008",
+          "archive-url": "https://web.archive.org/web/20080503030503/http://www.csmonitor.com/2004/0317/p06s01-woam.html",
+          "archive-date": "3 May 2008",
+          "template": "citation",
+          "type": "news"
         },
         {
           "date": "August 2021",
@@ -2111,6 +2214,17 @@
           "type": "news"
         },
         {
+          "last": "Castillo García",
+          "first": "Gustavo",
+          "date": "28 April 2005",
+          "title": "Renuncio en aras de la gobernabilidad democrática, dijo Macedo de la Concha",
+          "url": "https://www.jornada.com.mx/2005/04/28/index.php?section=politica&article=007n1pol",
+          "access-date": "2022-02-17",
+          "website": "La Jornada",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "http://www.jornada.unam.mx/2005/04/25/index.php?session=yGGAHAhdSQsfxIR2u18GHHDD8s",
           "title": "Más de un millón repudiaron el abuso del poder",
           "newspaper": "La Jornada",
@@ -2123,17 +2237,6 @@
           "df": "mdy-all",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "last": "Castillo García",
-          "first": "Gustavo",
-          "date": "28 April 2005",
-          "title": "Renuncio en aras de la gobernabilidad democrática, dijo Macedo de la Concha",
-          "url": "https://www.jornada.com.mx/2005/04/28/index.php?section=politica&article=007n1pol",
-          "access-date": "2022-02-17",
-          "website": "La Jornada",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
@@ -3134,34 +3237,12 @@
           "type": "news"
         },
         {
-          "url": "http://news.bbc.co.uk/1/hi/world/americas/5007800.stm",
-          "title": "Campaign row heats up in Mexico",
-          "work": "BBC News",
-          "date": "23 May 2006",
-          "access-date": "16 June 2008",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20061209112004/http://news.bbc.co.uk/1/hi/world/americas/5007800.stm",
-          "archive-date": "9 December 2006",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "date": "July 30, 2006",
           "title": "Lopez Obrador Plans Protest Camps to Press Recount (Update1)",
           "work": "Bloomberg",
           "url": "https://www.bloomberg.com/apps/news?pid=20601086&sid=aNsnNRANcLuE&refer=latin_america",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "date": "30 October 2008",
-          "title": "Ilegal la campaña empresarial del 2006 contra AMLO: TEPJF",
-          "url": "https://www.proceso.com.mx/nacional/2008/10/30/ilegal-la-campana-empresarial-del-2006-contra-amlo-tepjf-29024.html",
-          "access-date": "2022-02-17",
-          "website": "Proceso",
-          "language": "spanish",
-          "template": "citation",
-          "type": "web"
         },
         {
           "url": "http://mx.invertia.com/noticias/noticia.aspx?idNoticia=200609051550_INF_364930&idtel=",
@@ -3203,6 +3284,28 @@
           "df": "mdy-all",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "http://news.bbc.co.uk/1/hi/world/americas/5007800.stm",
+          "title": "Campaign row heats up in Mexico",
+          "work": "BBC News",
+          "date": "23 May 2006",
+          "access-date": "16 June 2008",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20061209112004/http://news.bbc.co.uk/1/hi/world/americas/5007800.stm",
+          "archive-date": "9 December 2006",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "30 October 2008",
+          "title": "Ilegal la campaña empresarial del 2006 contra AMLO: TEPJF",
+          "url": "https://www.proceso.com.mx/nacional/2008/10/30/ilegal-la-campana-empresarial-del-2006-contra-amlo-tepjf-29024.html",
+          "access-date": "2022-02-17",
+          "website": "Proceso",
+          "language": "spanish",
+          "template": "citation",
+          "type": "web"
         },
         {
           "date": "August 2021",
@@ -3473,14 +3576,6 @@
           "type": "web"
         },
         {
-          "title": "En breve acto, Calderón recibe constancia de presidente electo - La Jornada",
-          "url": "https://www.jornada.com.mx/2006/09/07/index.php?section=politica&article=003n1pol",
-          "access-date": "2022-02-17",
-          "website": "La Jornada",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "http://www.univision.com/content/content.jhtml?chid=6&schid=0&secid=1514&cid=922613",
           "title": "Página no está disponible",
           "publisher": "Univision.com",
@@ -3641,6 +3736,14 @@
           "archive-date": "9 October 2012",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "En breve acto, Calderón recibe constancia de presidente electo - La Jornada",
+          "url": "https://www.jornada.com.mx/2006/09/07/index.php?section=politica&article=003n1pol",
+          "access-date": "2022-02-17",
+          "website": "La Jornada",
+          "template": "citation",
+          "type": "web"
         },
         {
           "date": "August 2021",
