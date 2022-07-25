@@ -51,6 +51,20 @@
                   "AMLO"
                 ]
               }
+            },
+            {
+              "text": "He previously served as Head of Government of Mexico City from 2000 to 2005.",
+              "links": [
+                {
+                  "text": "Head of Government",
+                  "type": "internal",
+                  "page": "List of mayors of Mexico City"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mexico City"
+                }
+              ]
             }
           ]
         },
@@ -83,15 +97,11 @@
               "text": "He earned a bachelor's degree in political science."
             },
             {
-              "text": "He began his political career in 1976 as a member of the Institutional Revolutionary Party (PRI) in Tabasco.",
+              "text": "He began his political career in 1976 as a member of the Institutional Revolutionary Party (PRI).",
               "links": [
                 {
                   "type": "internal",
                   "page": "Institutional Revolutionary Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tabasco"
                 }
               ]
             },
@@ -106,7 +116,7 @@
               ]
             },
             {
-              "text": "In 1989, he joined the Party of the Democratic Revolution (PRD), becoming the party's 1994 candidate for Governor of Tabasco, and national leader of the PRD between 1996 and 1999.",
+              "text": "In 1989, he joined the Party of the Democratic Revolution (PRD), becoming the party's 1994 candidate for Governor of Tabasco, and national leader between 1996 and 1999.",
               "links": [
                 {
                   "type": "internal",
@@ -119,18 +129,7 @@
               ]
             },
             {
-              "text": "In 2000, he was elected Head of Government of Mexico City.",
-              "links": [
-                {
-                  "text": "Head of Government",
-                  "type": "internal",
-                  "page": "List of mayors of Mexico City"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mexico City"
-                }
-              ]
+              "text": "In 2000, he was elected Head of Government of Mexico City."
             },
             {
               "text": "During tenure, his crime, infrastructure and social spending policies made him a popular figure on the Mexican left."
@@ -150,12 +149,7 @@
               ]
             },
             {
-              "text": "This desafuero process lasted for a year and ended with López Obrador maintaining his right to run for office.",
-              "formatting": {
-                "italic": [
-                  "desafuero"
-                ]
-              }
+              "text": "This legal process lasted for a year and ended with López Obrador maintaining his right to run for office."
             }
           ]
         },
@@ -227,7 +221,7 @@
               ]
             },
             {
-              "text": "In 2014, he left the PRD after protesting the party's signing of the Pact for Mexico, and joined Morena.",
+              "text": "In 2012, he left the PRD after protesting the party's signing of the Pact for Mexico, and joined Morena.",
               "links": [
                 {
                   "type": "internal",
@@ -236,8 +230,12 @@
               ]
             },
             {
-              "text": "He was elected president after a landslide victory in the 2018 general election.",
+              "text": "As part of the Juntos Haremos Historia coalition, López Obrador was elected president after a landslide victory in the 2018 general election.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Juntos Haremos Historia"
+                },
                 {
                   "text": "2018 general election",
                   "type": "internal",
@@ -301,21 +299,6 @@
                   "text": "COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Mexico"
-                }
-              ]
-            },
-            {
-              "text": "López Obrador's government has also been criticized for failing to combat violence against women in Mexico and its high rate of femicide, which has risen dramatically since 2018.",
-              "links": [
-                {
-                  "text": "violence against women in Mexico",
-                  "type": "internal",
-                  "page": "violence against women in Mexico"
-                },
-                {
-                  "text": "femicide",
-                  "type": "internal",
-                  "page": "femicide"
                 }
               ]
             }
@@ -696,25 +679,6 @@
           "issn": "0028-7504",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "title": "The long road to justice, prosecuting femicide in Mexico",
-          "language": "en",
-          "work": "UN Women",
-          "url": "http://www.unwomen.org/en/news/stories/2017/11/feature-prosecuting-femicide-in-mexico",
-          "access-date": "2018-05-14",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "author1": "Kirk Semple",
-          "author2": "Paulina Villegas",
-          "date": "Feb 19, 2020",
-          "title": "The Grisly Deaths of a Woman and a Girl Shock Mexico and Test Its President",
-          "url": "https://www.nytimes.com/2020/02/19/world/americas/mexico-violence-women.html",
-          "website": "The New York Times",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
@@ -1128,7 +1092,7 @@
     },
     {
       "title": "Family and personal life",
-      "depth": 0,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -10462,14 +10426,22 @@
         {
           "sentences": [
             {
-              "text": "López Obrador has been accused by the opposition of being slow to respond to women's demands to act on the issue of femicide.",
+              "text": "López Obrador's government has been criticized for failing to combat violence against women in Mexico and its high rate of femicide, which has risen dramatically since 2018.",
               "links": [
+                {
+                  "text": "violence against women in Mexico",
+                  "type": "internal",
+                  "page": "violence against women in Mexico"
+                },
                 {
                   "text": "femicide",
                   "type": "internal",
                   "page": "femicide"
                 }
               ]
+            },
+            {
+              "text": "López Obrador has been accused of being slow to respond to women's demands to act on the issue of femicide."
             },
             {
               "text": "After a particularly well-publicized femicide of a kidnapped girl, women marches spiked nationally; as a result, the Head of Government of Mexico City, Claudia Sheinbaum (who is also a member of MORENA) announced new measures to prevent further femicides in the city, while López Obrador also announced a package of new measures to address the issue.",
@@ -10560,6 +10532,25 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "title": "The long road to justice, prosecuting femicide in Mexico",
+          "language": "en",
+          "work": "UN Women",
+          "url": "http://www.unwomen.org/en/news/stories/2017/11/feature-prosecuting-femicide-in-mexico",
+          "access-date": "2018-05-14",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Kirk Semple",
+          "author2": "Paulina Villegas",
+          "date": "Feb 19, 2020",
+          "title": "The Grisly Deaths of a Woman and a Girl Shock Mexico and Test Its President",
+          "url": "https://www.nytimes.com/2020/02/19/world/americas/mexico-violence-women.html",
+          "website": "The New York Times",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
